@@ -1,13 +1,6 @@
-import numpy as np
-from typing import Dict, List
-from collections import defaultdict
-from tqdm import tqdm
-from itertools import chain
 import sklearn_crfsuite
 
-
 # 数据预处理，将txt文件中的数据按照换行符分割开
-# data中包含3820个句子，每个句子划分成了字与标注
 def DataProcess(path):
     data = []
     sentence = []
@@ -85,14 +78,9 @@ def data2txt(predict, path):
 
 
 if __name__ == "__main__":
-    # print(DataProcess('./NER/English/train.txt')[1][0])
-    # 共有3820句
-
     train, _, _ = DataProcess("../NER/English/train.txt")
     valid, valid_sentence, valid_tag = DataProcess("../NER/English/validation.txt")
 
-    print("训练集长度:", len(train))
-    print("验证集长度:", len(valid))
     X_train = [sent2features(s[0]) for s in train]
     y_train = [sent2labels(s[1]) for s in train]
     X_dev = [sent2features(s[0]) for s in valid]
@@ -112,14 +100,12 @@ if __name__ == "__main__":
     print("训练结束")
 
     print("开始预测")
-    labels = list(crf_model.classes_)
     y_pred = crf_model.predict(X_dev)
-    # y_pred = list(chain.from_iterable(y_pred))
 
-    print("预测结束")
     predict_tag = []
     assert len(y_pred) == len(valid_sentence), f"预测的句子数量与验证集句子数量不符,len(y_pred)={len(y_pred)},len(valid_sentence)={len(valid_sentence)}"
     for i in range(len(valid_sentence)):
         predict_tag.append([valid_sentence[i], y_pred[i]])
+    print("预测结束")
 
     data2txt(predict_tag, "./my_English_validation_result.txt")

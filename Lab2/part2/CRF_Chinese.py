@@ -1,8 +1,3 @@
-import numpy as np
-from typing import Dict, List
-from collections import defaultdict
-from tqdm import tqdm
-from itertools import chain
 import sklearn_crfsuite
 
 
@@ -38,22 +33,18 @@ def word2features(sent, i):
 
     if i > 0:
         word = sent[i - 1]
-        features.update(
-            {
-                "-1:word": word,
-                "-1:word.isdigit()": word.isdigit(),
-            }
-        )
+        features.update({
+            "-1:word": word,
+            "-1:word.isdigit()": word.isdigit(),
+        })
     else:
         features["BOS"] = True
     if i < len(sent) - 1:
         word = sent[i + 1]
-        features.update(
-            {
-                "+1:word": word,
-                "+1:word.isdigit()": word.isdigit(),
-            }
-        )
+        features.update({
+            "+1:word": word,
+            "+1:word.isdigit()": word.isdigit(),
+        })
     else:
         features["EOS"] = True
     return features
@@ -80,14 +71,10 @@ if __name__ == "__main__":
     train, _, _ = DataProcess("../NER/Chinese/train.txt")
     valid, valid_sentence, valid_tag = DataProcess("../NER/Chinese/validation.txt")
 
-    print("训练集长度:", len(train))
-    print("验证集长度:", len(valid))
     X_train = [sent2features(s[0]) for s in train]
     y_train = [sent2labels(s[1]) for s in train]
     X_dev = [sent2features(s[0]) for s in valid]
     y_dev = [sent2labels(s[1]) for s in valid]
-    print(X_train[0][1])
-    print(y_dev[0][1])
 
     crf_model = sklearn_crfsuite.CRF(
         algorithm="lbfgs",
@@ -102,14 +89,12 @@ if __name__ == "__main__":
     print("训练结束")
 
     print("开始预测")
-    labels = list(crf_model.classes_)
     y_pred = crf_model.predict(X_dev)
 
-    print("预测结束")
-    print(y_pred[0])
     predict_tag = []
     assert len(y_pred) == len(valid_sentence), f"预测的句子数量与验证集句子数量不符,len(y_pred)={len(y_pred)},len(valid_sentence)={len(valid_sentence)}"
     for i in range(len(valid_sentence)):
         predict_tag.append([valid_sentence[i], y_pred[i]])
+    print("预测结束")
 
     data2txt(predict_tag, "./my_Chinese_validation_result.txt")

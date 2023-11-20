@@ -80,7 +80,8 @@ if __name__ == "__main__":
 
     print("开始预测！")
 
-    _, valid_sentence, valid_tag = DataProcess("../NER/English/validation.txt")
+    _, valid_sentence, _ = DataProcess("../NER/English/validation.txt")
+    print(valid_sentence[-1])
 
     predict_tag = []
     for s in valid_sentence:
@@ -89,7 +90,6 @@ if __name__ == "__main__":
             len(p), len(s)
         )
         predict_tag.append([s, p])
-    print(valid_sentence[-1])
 
     data2txt(predict_tag, "./my_English_validation_result.txt")
     print("预测结束！")

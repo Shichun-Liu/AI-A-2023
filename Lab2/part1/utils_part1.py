@@ -1,4 +1,5 @@
 import numpy as np
+from tqdm import tqdm
 
 # 数据预处理
 def DataProcess(path: str) -> (list, list, list):
@@ -47,11 +48,7 @@ def save_parameter(A_path, B_path, pi_path, A, B, pi):
 
 
 # 读取HMM模型参数
-def load_parameter(
-    A_path="./weights/A.txt", 
-    B_path="./weights/B.txt", 
-    pi_path="./weights/pi.txt"
-):
+def load_parameter(A_path, B_path, pi_path):
     A = np.loadtxt(A_path)
     B = np.loadtxt(B_path)
     pi = np.loadtxt(pi_path)
@@ -82,3 +79,26 @@ def viterbi(A, B, pi, s, word2idx, idx2tag):
     # 序列翻转
     best_path.reverse()
     return best_path
+
+def train(data, A, B, pi, tag2idx, char2idx ):
+    for i in tqdm(range(len(data))):  # 几组数据
+        for j in range(len(data[i][0])):  # 每组数据中几个字符
+            cur_char = data[i][0][j]  # 取出当前字符
+            cur_tag = data[i][1][j]  # 取出当前标签
+            B[tag2idx[cur_tag]][char2idx[cur_char]] += 1  # 对B矩阵中标签->字符的位置加一
+            if j == 0:
+                # 若是文本段的第一个字符，统计pi矩阵
+                pi[tag2idx[cur_tag]] += 1
+                continue
+            pre_tag = data[i][1][j - 1]  # 记录前一个字符的标签
+            # 对A矩阵中前一个标签->当前标签的位置加一
+            A[tag2idx[pre_tag]][tag2idx[cur_tag]] += 1
+    # 先将0加上一个1e-8，再取对数
+    A[A == 0] = 1e-8
+    A = np.log(A) - np.log(np.sum(A, axis=1, keepdims=True))
+    B[B == 0] = 1e-8
+    B = np.log(B) - np.log(np.sum(B, axis=1, keepdims=True))
+    pi[pi == 0] = 1e-8
+    pi = np.log(pi) - np.log(np.sum(pi))
+
+    return A, B, pi

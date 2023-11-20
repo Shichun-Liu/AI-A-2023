@@ -3,7 +3,7 @@ from typing import Dict, List
 from collections import defaultdict
 from tqdm import tqdm
 
-from part1_utils import *
+from utils_part1 import *
 from check_part1 import *
 
 # 超参数

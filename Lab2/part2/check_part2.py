@@ -85,12 +85,12 @@ def check(language, gold_path, my_path):
 if __name__ == "__main__":
     # check(language="Chinese", gold_path="example_data/example_gold_result.txt",
     #       my_path="example_data/example_my_result.txt")
-    # print("中文结果: ")
-    # check(
-    #     language="Chinese",
-    #     gold_path="./NER/Chinese/chinese_test.txt",
-    #     my_path="./part2/my_Chinese_test_result.txt",
-    # )
+    print("中文结果: ")
+    check(
+        language="Chinese",
+        gold_path="../NER/Chinese/validation.txt",
+        my_path="./my_Chinese_validation_result.txt",
+    )
     print("英文结果: ")
     check(
         language="English",

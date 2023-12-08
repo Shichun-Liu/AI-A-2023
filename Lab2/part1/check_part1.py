@@ -87,9 +87,9 @@ if __name__ == "__main__":
         my_path="./my_Chinese_validation_result.txt",
     )
 
-    # print("英文结果: ")
-    # check(
-    #     language="English",
-    #     gold_path="./NER/English/english_test.txt",
-    #     my_path="./part1/my_English_test_result.txt",
-    # )
+    print("英文结果: ")
+    check(
+        language="English",
+        gold_path="../NER/English/validation.txt",
+        my_path="./my_English_validation_result.txt",
+    )

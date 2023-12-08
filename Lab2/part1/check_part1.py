@@ -83,13 +83,13 @@ if __name__ == "__main__":
     print("中文结果: ")
     check(
         language="Chinese",
-        gold_path="../NER/Chinese/validation.txt",
-        my_path="./my_Chinese_validation_result.txt",
+        gold_path="../NER/Chinese/test.txt",
+        my_path="./my_Chinese_test_result.txt",
     )
 
     print("英文结果: ")
     check(
         language="English",
-        gold_path="../NER/English/validation.txt",
-        my_path="./my_English_validation_result.txt",
+        gold_path="../NER/English/test.txt",
+        my_path="./my_English_test_result.txt",
     )

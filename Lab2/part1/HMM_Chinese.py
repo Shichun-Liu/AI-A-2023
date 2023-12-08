@@ -77,19 +77,19 @@ def main():
     )
 
     print("开始预测")
-    _, valid_sentence, _ = DataProcess("../NER/Chinese/validation.txt")
+    _, valid_sentence, _ = DataProcess("../NER/Chinese/test.txt")
     predict_tag = []
     for s in valid_sentence:
         p = viterbi(A, B, pi, s, word2idx=char2idx, idx2tag=idx2tag)
         assert len(p) == len(s), f"预测的状态序列长度与观测矩阵不同,len(p)={len(p)},len(s)={len(s)}"
         predict_tag.append([s, p])
 
-    data2txt(predict_tag, "./my_Chinese_validation_result.txt")
+    data2txt(predict_tag, "./my_Chinese_test_result.txt")
     print("预测结束")
     check(
         language="Chinese",
-        gold_path="../NER/Chinese/validation.txt",
-        my_path="./my_Chinese_validation_result.txt",
+        gold_path="../NER/Chinese/test.txt",
+        my_path="./my_Chinese_test_result.txt",
     )
 
 

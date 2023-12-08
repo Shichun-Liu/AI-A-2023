@@ -31,14 +31,14 @@ point O
 " O
 said O
 economist O
-Lynn I-PER
+Lynn O
 Reaser O
 of O
 Barnett B-ORG
 Banks I-ORG
 Inc. I-ORG
 in O
-Jacksonville B-LOC
+Jacksonville O
 , O
 Fla O
 . O
@@ -146,7 +146,7 @@ cut O
 prices O
 . O
 
-Mexican B-ORG
+Mexican B-MISC
 avocados O
 not O
 expected O
@@ -188,7 +188,7 @@ on O
 Friday O
 . O
 
-Jamaica B-LOC
+Jamaica B-ORG
 's O
 Michael B-PER
 Green I-PER
@@ -250,7 +250,7 @@ runs O
 1969 O
 - O
 Scottish B-MISC
-motor I-MISC
+motor I-PER
 racing O
 driver O
 Jackie B-PER
@@ -272,7 +272,7 @@ championship O
 I O
 think O
 the O
-Professional O
+Professional B-ORG
 Squash I-ORG
 Association I-ORG
 should O
@@ -288,7 +288,7 @@ properly O
 . O
 
 July O
-16-18 O
+16-18 B-ORG
 v O
 Glamorgan B-ORG
 ( O
@@ -338,9 +338,9 @@ and O
 status O
 of O
 the O
-Holy B-LOC
+Holy O
 City I-LOC
-of I-ORG
+of O
 Jerusalem B-LOC
 " O
 and O
@@ -350,9 +350,9 @@ between O
 Israel B-LOC
 and O
 the O
-Palestinian B-ORG
+Palestinian B-MISC
 Liberation I-ORG
-Organisation I-LOC
+Organisation I-ORG
 . O
 
 1706 O
@@ -371,8 +371,8 @@ by O
 the O
 Austrians O
 under O
-Prince O
-Eugene I-PER
+Prince B-PER
+Eugene O
 , O
 the O
 French B-MISC
@@ -402,9 +402,9 @@ Edberg B-PER
 . O
 " O
 
-Northampton B-ORG
+Northampton B-LOC
 46 O
-West O
+West B-ORG
 Hartlepool O
 20 O
 
@@ -412,7 +412,7 @@ Brian B-PER
 Giles I-PER
 and O
 Jim B-PER
-Thome O
+Thome I-PER
 homered O
 for O
 Cleveland B-ORG
@@ -428,8 +428,8 @@ Baseball I-MISC
 Leeson B-PER
 , O
 the O
-Northern B-LOC
-Ireland-born I-LOC
+Northern B-ORG
+Ireland-born O
 actor O
 who O
 was O
@@ -479,7 +479,7 @@ a O
 bonded O
 zone O
 in O
-Tianjin B-LOC
+Tianjin O
 , O
 the O
 newspaper O
@@ -595,9 +595,9 @@ Walsall B-ORG
 v O
 Wrexham B-ORG
 
-ESCHEN O
+ESCHEN B-LOC
 , O
-Liechtenstein B-PER
+Liechtenstein B-LOC
 1996-08-31 O
 
 8. O
@@ -753,7 +753,7 @@ by O
 the O
 weather O
 , O
-Kent O
+Kent B-ORG
 stepped O
 up O
 a O
@@ -796,8 +796,8 @@ Chen B-PER
 Chun-yeh I-PER
 told O
 the O
-High B-LOC
-Court I-LOC
+High B-ORG
+Court I-ORG
 after O
 sentencing O
 on O
@@ -848,7 +848,7 @@ Chicago B-LOC
 the O
 Braves B-ORG
 and O
-Cubs B-LOC
+Cubs I-ORG
 split O
 a O
 doubleheader O
@@ -873,7 +873,7 @@ Duncan O
 Darryl O
 Strawberry O
 and O
-Jim B-PER
+Jim B-MISC
 Leyritz O
 . O
 
@@ -890,7 +890,7 @@ million O
 - O
 - O
 
-LA B-PER
+LA B-ORG
 CORUNA I-PER
 , O
 Spain B-LOC
@@ -906,7 +906,7 @@ Ssangbangwool B-ORG
 Former O
 international O
 goalkeeper O
-Dominique B-PER
+Dominique O
 Baratelli I-PER
 is O
 to O
@@ -972,7 +972,7 @@ match O
 : O
 India B-LOC
 v O
-Zimbabwe B-ORG
+Zimbabwe B-LOC
 , O
 September O
 1 O
@@ -1014,7 +1014,7 @@ set O
 DALLAS O
 1996-08-31 O
 
-City B-ORG
+City B-MISC
 officials O
 there O
 said O
@@ -1034,13 +1034,13 @@ England B-LOC
 Bowling O
 : O
 Vass B-PER
-7-0-29-0 I-PER
+7-0-29-0 O
 , O
 de B-PER
 Silva I-PER
 4-0-25-0 O
 , O
-Dharmasena O
+Dharmasena B-PER
 
 I O
 remember O
@@ -1070,7 +1070,7 @@ and O
 he O
 saw O
 ( O
-Tom B-MISC
+Tom O
 ) O
 Seaver O
 and O
@@ -1108,7 +1108,7 @@ to O
 34.3 O
 hours O
 from O
-34.7 O
+34.7 B-LOC
 in O
 June O
 . O
@@ -1132,7 +1132,7 @@ drag O
 race O
 on O
 a O
-Dallas B-MISC
+Dallas O
 street O
 turned O
 deadly O
@@ -1182,13 +1182,13 @@ got O
 the O
 information O
 from O
-KDP B-LOC
+KDP B-ORG
 leaders O
 in O
-KDP B-LOC
+KDP B-ORG
 headquarters O
 in O
-Saladdin O
+Saladdin B-LOC
 , O
 " O
 the O
@@ -1338,7 +1338,7 @@ Australia B-LOC
 15-7 O
 17-15 O
 14-15 O
-15-8 O
+15-8 I-PER
 2 O
 - O
 Rodney B-PER
@@ -1360,7 +1360,7 @@ Scotland B-LOC
 15-4 O
 
 Warwickshire B-ORG
-195 I-PER
+195 O
 and O
 109 O
 ( O
@@ -1413,7 +1413,7 @@ Cunningham I-PER
 the O
 National B-ORG
 Football I-ORG
-League I-ORG
+League I-MISC
 's O
 all-time O
 leading O
@@ -1478,7 +1478,7 @@ prepare O
 me O
 . O
 
-Mahala B-PER
+Mahala B-LOC
 is O
 a O
 Moslem B-MISC
@@ -1495,11 +1495,11 @@ Israel B-LOC
 which O
 captured O
 and O
-annexed O
+annexed B-LOC
 East B-LOC
 Jerusalem I-LOC
 in O
-1967 B-LOC
+1967 O
 , O
 says O
 it O
@@ -1532,11 +1532,11 @@ TEXAS B-ORG
 
 TENNIS O
 - O
-SPAIN B-PER
+SPAIN O
 , O
 U.S. B-LOC
 TEAMS O
-OPEN B-MISC
+OPEN I-MISC
 ON O
 ROAD O
 FOR O
@@ -1548,7 +1548,7 @@ CUP I-MISC
 VIENNA O
 1996-08-31 O
 
-NEW B-LOC
+NEW B-ORG
 YORK I-LOC
 1996-08-31 O
 
@@ -1585,7 +1585,7 @@ ONE-DAYER O
 
 A O
 senior O
-Belarus B-MISC
+Belarus O
 politician O
 accused O
 President O
@@ -1685,9 +1685,9 @@ demand O
 only O
 if O
 the O
-North B-LOC
-accepted I-ORG
-Seoul B-LOC
+North B-ORG
+accepted O
+Seoul I-ORG
 's O
 requests O
 , O
@@ -1709,7 +1709,7 @@ UNION I-ORG
 - O
 ENGLISH B-MISC
 , O
-SCOTTISH B-MISC
+SCOTTISH O
 AND O
 WELSH O
 RESULTS O
@@ -1742,8 +1742,8 @@ strong O
 presence O
 in O
 the O
-lower B-LOC
-Midwest B-LOC
+lower O
+Midwest I-LOC
 , O
 analysts O
 added O
@@ -1751,7 +1751,7 @@ added O
 
 SOCCER O
 - O
-BELGIUM B-ORG
+BELGIUM B-LOC
 SCRAPE O
 PAST O
 TURKEY O
@@ -1762,14 +1762,14 @@ TROUBLE O
 
 SOCCER O
 - O
-RESULT B-PER
+RESULT B-LOC
 IN O
 SPANISH B-MISC
 FIRST O
 DIVISION O
 . O
 
-BAGHDAD O
+BAGHDAD B-PER
 1996-08-31 O
 
 Larisa O
@@ -1896,7 +1896,7 @@ efficient O
 port O
 on O
 the O
-South B-ORG
+South B-LOC
 China I-LOC
 coast O
 ; O
@@ -2100,12 +2100,12 @@ the O
 White B-LOC
 House I-LOC
 in O
-1984 B-LOC
+1984 O
 , O
 while O
 Democrat B-MISC
-Walter O
-Mondale O
+Walter B-PER
+Mondale I-PER
 , O
 who O
 promised O
@@ -2210,7 +2210,7 @@ confident O
 . O
 
 Family-controlled B-ORG
-Douglas I-ORG
+Douglas B-ORG
 & I-ORG
 Lomason I-ORG
 , O
@@ -2257,7 +2257,7 @@ for O
 three O
 . O
 
-Washington B-LOC
+Washington B-PER
 , O
 who O
 climbed O
@@ -2307,7 +2307,7 @@ UNITED B-ORG
 NATIONS I-ORG
 1996-08-29 O
 
-Leboeuf O
+Leboeuf B-PER
 was O
 dismissed O
 two O
@@ -2321,7 +2321,7 @@ bookable O
 offence O
 , O
 fouling O
-Mexican B-ORG
+Mexican B-MISC
 substitute O
 Ricardo O
 Pelaez O
@@ -2345,7 +2345,7 @@ the O
 back O
 . O
 
-Others B-PER
+Others O
 said O
 they O
 thought O
@@ -2449,8 +2449,8 @@ four-time O
 winner O
 on O
 the O
-PGA B-LOC
-Tour I-LOC
+PGA B-MISC
+Tour I-MISC
 , O
 skipped O
 the O
@@ -2475,8 +2475,8 @@ Controversial O
 Australian B-MISC
 Anthony B-PER
 Hill I-PER
-called I-PER
-Jansher O
+called O
+Jansher B-PER
 Khan I-PER
 a O
 cheat O
@@ -2511,11 +2511,11 @@ from O
 the O
 Guangdong B-ORG
 Post I-ORG
-and I-ORG
+and O
 Telecommunications I-ORG
 Administration I-ORG
 ( O
-GPTA B-MISC
+GPTA O
 ) O
 . O
 
@@ -2538,7 +2538,7 @@ who O
 succeeded O
 Paul B-PER
 Van I-PER
-Himst O
+Himst I-PER
 as O
 coach O
 in O
@@ -2731,7 +2731,7 @@ taking O
 total O
 control O
 over O
-Ruch B-LOC
+Ruch O
 and O
 dictating O
 market O
@@ -2772,7 +2772,7 @@ Brian B-PER
 Henninger I-PER
 , O
 Tiger B-PER
-Woods O
+Woods I-PER
 , O
 Steve B-PER
 Jurgenson I-PER
@@ -2783,7 +2783,7 @@ in O
 the O
 Trofej O
 Beograd O
-96 O
+96 I-MISC
 
 The O
 Commerce B-ORG
@@ -2947,7 +2947,7 @@ than O
 over O
 " O
 Michael B-PER
-Collins I-PER
+Collins O
 " O
 , O
 his O
@@ -3026,7 +3026,7 @@ shrs O
 4,841 O
 3,990 O
 
-Suu O
+Suu B-PER
 Kyi I-PER
 , O
 who O
@@ -3131,8 +3131,8 @@ The O
 Sunday O
 Telegraph O
 quoted O
-Majorie O
-Orr I-PER
+Majorie B-PER
+Orr O
 as O
 saying O
 she O
@@ -3361,7 +3361,7 @@ President O
 Slobodan B-PER
 Milosevic I-PER
 and O
-Yugoslav B-MISC
+Yugoslav B-PER
 politicians O
 in O
 Belgrade B-LOC
@@ -3408,8 +3408,8 @@ sanctions O
 At O
 California B-LOC
 , O
-Tino O
-Martinez B-PER
+Tino B-PER
+Martinez I-PER
 's O
 two-run O
 homer O
@@ -3418,7 +3418,7 @@ a O
 three-run O
 first O
 and O
-Andy O
+Andy B-PER
 Pettitte I-PER
 became O
 the O
@@ -3451,7 +3451,7 @@ at O
 Old B-LOC
 Trafford I-LOC
 , O
-Manchester B-LOC
+Manchester O
 ) O
 
 " O
@@ -3489,7 +3489,7 @@ He O
 said O
 one O
 of O
-Wang O
+Wang B-PER
 's O
 apparent O
 offences O
@@ -3557,7 +3557,7 @@ U.S. B-LOC
 Reynard B-PER
 Honda I-PER
 , O
-54.617 B-PER
+54.617 O
 
 " O
 The O
@@ -3594,7 +3594,7 @@ Anguita I-PER
 ( O
 Spain B-LOC
 ) O
-MX B-ORG
+MX O
 Onda O
 
 The O
@@ -3663,7 +3663,7 @@ LOUIS I-ORG
 2 O
 1/2 O
 
-Edberg B-LOC
+Edberg B-PER
 's O
 tenacity O
 paid O
@@ -3766,7 +3766,7 @@ one-two O
 with O
 the O
 Internazionale O
-Milan B-LOC
+Milan B-ORG
 forward O
 down O
 the O
@@ -3782,7 +3782,7 @@ shot O
 past O
 diving O
 goalkeeper O
-Osvaldo B-PER
+Osvaldo O
 Sanchez I-PER
 . O
 
@@ -3799,7 +3799,7 @@ Britain B-LOC
 's O
 most O
 popular O
-sportsmen I-PER
+sportsmen O
 , O
 had O
 hoped O
@@ -3878,14 +3878,14 @@ Security B-ORG
 Council I-ORG
 issues O
 with O
-Chilean O
+Chilean B-MISC
 officials O
 as O
 part O
 of O
 a O
 five-nation O
-Latin O
+Latin B-MISC
 American I-MISC
 tour O
 . O
@@ -3939,7 +3939,7 @@ for O
 the O
 American B-MISC
 League I-MISC
-wild I-MISC
+wild O
 card O
 with O
 the O
@@ -3956,7 +3956,7 @@ Dhaka B-ORG
 Stock I-ORG
 Exchange I-ORG
 ( O
-DSE B-MISC
+DSE O
 ) O
 may O
 remain O
@@ -4061,7 +4061,7 @@ finish O
 the O
 day O
 at O
-3,885.0 B-LOC
+3,885.0 O
 , O
 a O
 fall O
@@ -4091,7 +4091,7 @@ Jean-Michel B-PER
 Monin I-PER
 , O
 Francis B-PER
-Moreau O
+Moreau I-PER
 ) O
 4:05.104 B-ORG
 beat O
@@ -4107,7 +4107,7 @@ Thorsten B-PER
 Rund I-PER
 , O
 Heiko B-PER
-Szonn O
+Szonn I-PER
 ) O
 4:05.463 O
 
@@ -4240,7 +4240,7 @@ and O
 world O
 record O
 holder O
-Jonathan B-PER
+Jonathan O
 Edwards I-PER
 will O
 both O
@@ -4655,7 +4655,7 @@ Cup I-MISC
 soccer O
 European B-MISC
 group O
-nine O
+nine B-ORG
 qualifier O
 on O
 Saturday O
@@ -4770,7 +4770,7 @@ YORK I-ORG
 25 O
 1/2 O
 
-WASHINGTON O
+WASHINGTON B-LOC
 1996-08-31 O
 
 SEOUL B-LOC
@@ -4850,7 +4850,7 @@ the O
 House B-ORG
 of I-ORG
 Representatives I-ORG
-Wahono I-ORG
+Wahono O
 has O
 called O
 on O
@@ -4878,7 +4878,7 @@ justice O
 . O
 
 Greenock B-ORG
-Morton I-PER
+Morton I-ORG
 1 O
 Falkirk B-ORG
 0 O
@@ -4926,7 +4926,7 @@ of O
 Zhejiang B-LOC
 , O
 told O
-Wang O
+Wang B-ORG
 's O
 family O
 that O
@@ -5031,11 +5031,11 @@ L.O. O
 : O
 Bodman B-PER
 , O
-Longely B-ORG
+Longely I-ORG
 & I-ORG
 Dahling I-ORG
 , O
-Detroit B-ORG
+Detroit B-PER
 
 Spartak B-ORG
 3 O
@@ -5073,7 +5073,7 @@ part O
 of O
 the O
 Russian B-MISC
-Federation O
+Federation I-LOC
 , O
 sent O
 troops O
@@ -5154,7 +5154,7 @@ Florida B-ORG
 CINCINNATI B-ORG
 1 O
 
-Automakers O
+Automakers B-PER
 , O
 suppliers O
 , O
@@ -5189,7 +5189,7 @@ by O
 air O
 bags O
 in O
-cars B-LOC
+cars O
 and O
 trucks O
 . O
@@ -5218,13 +5218,13 @@ in O
 schedules O
 , O
 " O
-Tanjug O
+Tanjug B-ORG
 quotes O
-Belgrade O
+Belgrade B-PER
 airport O
 General O
-Director O
-Ljubomir I-PER
+Director B-PER
+Ljubomir O
 Acimovic I-PER
 as O
 saying O
@@ -5249,7 +5249,7 @@ decision O
 over O
 Venezuela B-LOC
 's O
-Ramon B-PER
+Ramon O
 Guzman I-PER
 on O
 Saturday O
@@ -5285,9 +5285,9 @@ YORK I-LOC
 RUGBY B-MISC
 LEAGUE I-MISC
 - O
-WIGAN B-ORG
+WIGAN B-LOC
 BEAT O
-BRADFORD O
+BRADFORD B-LOC
 42-36 O
 IN O
 SEMIFINAL O
@@ -5341,13 +5341,13 @@ YORK I-ORG
 .440 O
 25 O
 
-The O
-Republic I-LOC
+The B-LOC
+Republic B-LOC
 of I-LOC
 Ireland I-LOC
 beat O
-Liechtenstein B-LOC
-5-0 I-LOC
+Liechtenstein B-ORG
+5-0 O
 ( O
 halftime O
 4-0 O
@@ -5497,7 +5497,7 @@ Police O
 told O
 Reuters B-ORG
 by O
-telephone O
+telephone B-PER
 , O
 adding O
 that O
@@ -5512,8 +5512,8 @@ terrorist O
 attack O
 on O
 the O
-ornate O
-Casa I-ORG
+ornate B-LOC
+Casa B-LOC
 de I-LOC
 Narino O
 presidential O
@@ -5587,7 +5587,7 @@ percent O
 Saqlain B-PER
 Mushtaq I-PER
 b O
-Hollioake B-ORG
+Hollioake B-PER
 0 O
 
 6. O
@@ -5604,7 +5604,7 @@ wanted O
 40 O
 percent O
 of O
-Ruch B-LOC
+Ruch O
 's O
 shares O
 , O
@@ -5624,7 +5624,7 @@ be O
 offered O
 on O
 the O
-Warsaw B-LOC
+Warsaw O
 stock O
 exchange O
 . O
@@ -5847,8 +5847,8 @@ bidding O
 for O
 an O
 eighth O
-Hong B-MISC
-Kong I-MISC
+Hong B-LOC
+Kong I-LOC
 Open I-MISC
 title O
 , O
@@ -6101,7 +6101,7 @@ percent O
 
 Company O
 Name O
-Homegate B-ORG
+Homegate I-ORG
 Hospitality I-ORG
 Inc I-ORG
 
@@ -6167,7 +6167,7 @@ ON O
 STRONG O
 DATA O
 
-Public O
+Public B-MISC
 prosecutors O
 said O
 they O
@@ -6195,7 +6195,7 @@ nb-1 O
 ) O
 3 O
 
-Shearer B-ORG
+Shearer B-PER
 's O
 Euro B-MISC
 96 I-MISC
@@ -6225,7 +6225,7 @@ Nyerere O
 ) O
 informed O
 Minister O
-Dini O
+Dini B-PER
 of O
 the O
 latest O
@@ -6234,7 +6234,7 @@ in O
 the O
 ( O
 Great B-MISC
-Lakes B-MISC
+Lakes I-MISC
 ) O
 region O
 , O
@@ -6263,7 +6263,7 @@ statement O
 
 Leicester B-LOC
 : O
-Leicestershire B-ORG
+Leicestershire B-PER
 beat O
 Somerset B-ORG
 by O
@@ -6391,7 +6391,7 @@ soil O
 . O
 
 One O
-elderly B-PER
+elderly O
 man O
 , O
 who O
@@ -6574,10 +6574,10 @@ in O
 June O
 . O
 
-Faroe B-LOC
-Islands I-ORG
+Faroe B-ORG
+Islands I-LOC
 - O
-Jan B-PER
+Jan O
 Allan I-PER
 Mueller I-PER
 ( O
@@ -6611,7 +6611,7 @@ of O
 Moscow B-LOC
 . O
 
-BOMBAY O
+BOMBAY B-LOC
 1996-08-30 O
 
 BERLIN B-LOC
@@ -6711,12 +6711,12 @@ regime O
 of O
 Saddam O
 ( O
-Hussein B-MISC
+Hussein O
 ) O
 " O
 but O
-interior B-ORG
-ministry I-ORG
+interior O
+ministry O
 officials O
 had O
 consistently O
@@ -6804,7 +6804,7 @@ SARAJEVO O
 Scorers O
 : O
 
-Ex-Yankee B-PER
+Ex-Yankee O
 Randy B-PER
 Velarde I-PER
 hit O
@@ -6836,7 +6836,7 @@ ago O
 failed O
 . O
 
-Bristol O
+Bristol B-LOC
 : O
 Gloucestershire B-ORG
 183 O
@@ -6874,7 +6874,7 @@ venture O
 . O
 
 1. O
-Miss B-PER
+Miss B-MISC
 Stamper O
 3-1 O
 joint-favourite O
@@ -6882,7 +6882,7 @@ joint-favourite O
 ridden O
 by O
 David B-PER
-Harrison O
+Harrison I-PER
 ) O
 
 2. O
@@ -6894,9 +6894,9 @@ U.S. B-LOC
 , O
 Lola B-PER
 Ford I-PER
-Cosworth O
+Cosworth I-PER
 , O
-54.483 B-PER
+54.483 O
 
 5. O
 Armen B-PER
@@ -6958,7 +6958,7 @@ Israeli B-MISC
 move O
 . O
 
-Zairean B-MISC
+Zairean O
 troops O
 expelled O
 15,000 O
@@ -7015,7 +7015,7 @@ group O
 to O
 bid O
 for O
-Ruch B-LOC
+Ruch O
 newsstand O
 chain O
 - O
@@ -7069,7 +7069,7 @@ Stoke B-ORG
 
 Incomes O
 from O
-wages B-LOC
+wages O
 , O
 salaries O
 and O
@@ -7148,7 +7148,7 @@ the O
 second O
 , O
 the O
-Swede O
+Swede B-MISC
 birdied O
 six O
 of O
@@ -7186,7 +7186,7 @@ week O
 final O
 . O
 
-Welsh B-MISC
+Welsh O
 division O
 one O
 
@@ -7212,7 +7212,7 @@ and O
 nearly O
 600,000 O
 in O
-Tanzania O
+Tanzania B-LOC
 refuse O
 to O
 go O
@@ -7235,7 +7235,7 @@ a O
 million O
 people O
 by O
-Hutus B-MISC
+Hutus O
 . O
 
 Attendance O
@@ -7269,7 +7269,7 @@ petition O
 to O
 the O
 International B-ORG
-Red I-MISC
+Red I-ORG
 Cross I-ORG
 in O
 1993 O
@@ -7361,7 +7361,7 @@ after O
 bodyguards O
 loyal O
 to O
-Gaddafi B-LOC
+Gaddafi B-PER
 's O
 sons O
 fired O
@@ -7686,7 +7686,7 @@ Brazil B-LOC
 Reynard B-PER
 Honda I-PER
 , O
-54.774 B-PER
+54.774 O
 
 Extras O
 ( O
@@ -7717,7 +7717,7 @@ his O
 121 O
 RBI B-MISC
 broke O
-Ruben O
+Ruben B-PER
 Sierra I-PER
 's O
 team O
@@ -7916,7 +7916,7 @@ by O
 Polish B-MISC
 businessman O
 Zygmunt O
-Solorz O
+Solorz I-PER
 were O
 forming O
 a O
@@ -8059,7 +8059,7 @@ Italy B-LOC
 Reynard B-PER
 Honda I-PER
 , O
-53.980 B-PER
+53.980 O
 ( O
 113.576 O
 
@@ -8133,7 +8133,7 @@ dressing O
 up O
 their O
 capital O
-Tripoli O
+Tripoli B-LOC
 for O
 celebrations O
 on O
@@ -8159,7 +8159,7 @@ ceasefire O
 has O
 prevailed O
 in O
-Nagorno-Karabakh O
+Nagorno-Karabakh B-LOC
 , O
 which O
 represents O
@@ -8297,7 +8297,7 @@ peace O
 treaty O
 with O
 the O
-Israelis O
+Israelis B-MISC
 but O
 on O
 the O
@@ -8312,7 +8312,7 @@ changed O
 , O
 " O
 said O
-20-year-old B-PER
+20-year-old O
 Ali B-PER
 Ahmed I-PER
 from O
@@ -8335,7 +8335,7 @@ Holy O
 Roman B-MISC
 Emperor O
 Charles B-PER
-VI I-PER
+VI O
 and O
 France B-LOC
 , O
@@ -8401,7 +8401,7 @@ blanked O
 Japan B-LOC
 5-0 O
 in O
-Nagoya B-LOC
+Nagoya O
 last O
 month O
 in O
@@ -8453,7 +8453,7 @@ Djorkaeff I-PER
 53rd O
 ) O
 
-World B-ORG
+World O
 Markets O
 Overnight O
 Summary O
@@ -8464,7 +8464,7 @@ Aug O
 
 Iraq B-LOC
 's O
-Aziz B-PER
+Aziz O
 says O
 Baghdad B-LOC
 aiding O
@@ -8483,7 +8483,7 @@ careful O
 . O
 " O
 
-Bruno B-PER
+Bruno O
 lost O
 three O
 world O
@@ -8586,13 +8586,13 @@ organisation O
 's O
 members O
 in O
-Arbil B-LOC
+Arbil O
 . O
 
 At O
 Hove B-LOC
 : O
-Sussex O
+Sussex B-ORG
 363 O
 and O
 144 O
@@ -8653,8 +8653,8 @@ in O
 the O
 Tarawa O
 Amphibious O
-Readiness B-ORG
-Group I-ORG
+Readiness O
+Group O
 . O
 
 Sjeng B-PER
@@ -8803,19 +8803,19 @@ tournament O
 . O
 
 Andy B-PER
-Colquhoun I-PER
+Colquhoun O
 
 The O
 commander-in-chief O
 of O
-Tajikistan B-LOC
+Tajikistan B-PER
 's O
 armed O
 forces O
 , O
 Major-General O
 Nikolai O
-Sherbatov O
+Sherbatov I-PER
 , O
 took O
 a O
@@ -8971,8 +8971,8 @@ ONE-DAY O
 SCOREBOARD O
 . O
 
-West B-MISC
-Indian I-MISC
+West B-LOC
+Indian I-LOC
 all-rounder O
 Phil B-PER
 Simmons I-PER
@@ -9009,7 +9009,7 @@ championship O
 
 GERMANY O
 - O
-Bunds O
+Bunds B-MISC
 extended O
 losses O
 , O
@@ -9062,9 +9062,9 @@ Saturday O
 
 1914 O
 - O
-James B-MISC
-Alfred I-MISC
-Van I-MISC
+James B-PER
+Alfred I-PER
+Van B-PER
 Allen O
 born O
 . O
@@ -9132,9 +9132,9 @@ Brazil B-LOC
 Lola B-PER
 Honda I-PER
 , O
-54.750 B-PER
+54.750 O
 
-BAGHDAD O
+BAGHDAD B-PER
 1996-08-31 O
 
 Teenage O
@@ -9249,7 +9249,7 @@ largest O
 militant O
 group O
 al-Gama'a B-ORG
-al-Islamiya O
+al-Islamiya I-ORG
 ( O
 Islamic B-MISC
 Group I-ORG
@@ -9426,7 +9426,7 @@ ENGLAND B-LOC
 BEAT O
 MOLDOVA B-LOC
 IN O
-UNDER-21 B-MISC
+UNDER-21 O
 QUALIFIER O
 . O
 
@@ -9507,7 +9507,7 @@ Bank I-ORG
 of I-ORG
 Romania I-ORG
 ( O
-BNR B-ORG
+BNR O
 ) O
 said O
 its O
@@ -9544,9 +9544,9 @@ BELFAST O
 
 1913 O
 - O
-Sir B-MISC
-Anthony B-PER
-Quayle O
+Sir O
+Anthony O
+Quayle I-PER
 born O
 . O
 
@@ -9615,8 +9615,8 @@ week O
 the O
 expansion O
 of O
-Jewish B-MISC
-West B-LOC
+Jewish B-ORG
+West I-ORG
 Bank I-LOC
 settlements O
 surrounding O
@@ -9806,7 +9806,7 @@ PITTSBURGH B-ORG
 16 O
 
 asked O
-Mustafa B-PER
+Mustafa O
 Hoshiyeh I-PER
 , O
 a O
@@ -9949,7 +9949,7 @@ after O
 delegates O
 from O
 the O
-Philippine B-MISC
+Philippine B-ORG
 government O
 and O
 the O
@@ -9958,7 +9958,7 @@ National B-ORG
 Liberation I-ORG
 Front I-ORG
 ( O
-MNLF B-MISC
+MNLF B-ORG
 ) O
 concluded O
 negotiations O
@@ -10012,7 +10012,7 @@ news O
 " O
 Bolesy O
 ( O
-Florida B-MISC
+Florida B-LOC
 manager O
 John B-PER
 Boles I-PER
@@ -10061,7 +10061,7 @@ Late O
 on O
 Friday O
 , O
-Liege O
+Liege B-ORG
 police O
 said O
 in O
@@ -10155,7 +10155,7 @@ losses O
 2. O
 Paddy B-PER
 Lad I-PER
-16-1 O
+16-1 I-PER
 ( O
 Peter B-PER
 Bloomfield O
@@ -10356,7 +10356,7 @@ said O
 . O
 
 Suu O
-Kyi I-PER
+Kyi O
 said O
 at O
 least O
@@ -10399,14 +10399,14 @@ ninth O
 on O
 pinch-hitter O
 Dave O
-Nilsson I-PER
+Nilsson I-ORG
 's O
 two-run O
 double O
 . O
 
 Northern B-ORG
-Iraq B-LOC
+Iraq I-LOC
 has O
 been O
 under O
@@ -10494,7 +10494,7 @@ the O
 air O
 . O
 
-LOS B-LOC
+LOS B-ORG
 ANGELES I-ORG
 1996-08-30 O
 
@@ -10598,9 +10598,9 @@ debates O
 . O
 
 The O
-Republic I-LOC
+Republic B-LOC
 of I-LOC
-Ireland B-LOC
+Ireland I-LOC
 's O
 new-look O
 side O
@@ -10781,7 +10781,7 @@ out O
 14 O
 
 Buddy O
-Groom O
+Groom I-PER
 pitched O
 a O
 perfect O
@@ -10920,21 +10920,21 @@ spectators O
 - O
 350.29 O
 ) O
-Sept B-MISC
-Brent I-MISC
+Sept O
+Brent O
 zinc O
 per O
 tonne O
 
 BASEBALL O
 - O
-GONZALEZ B-PER
+GONZALEZ O
 HOMERS O
 TWICE O
 AS O
 RANGERS O
 BEAT O
-INDIANS B-ORG
+INDIANS O
 . O
 
 World B-ORG
@@ -10983,9 +10983,9 @@ Kansai O
 Electric O
 Power B-ORG
 and O
-Kansai B-ORG
+Kansai I-ORG
 International I-ORG
-Airport I-ORG
+Airport O
 are O
 likely O
 to O
@@ -11053,7 +11053,7 @@ added O
 his O
 second O
 and O
-Ireland B-LOC
+Ireland B-PER
 's O
 fifth O
 just O
@@ -11168,7 +11168,7 @@ on O
 Saturday O
 that O
 ended O
-Rotor B-ORG
+Rotor O
 's O
 brief O
 spell O
@@ -11193,7 +11193,7 @@ the O
 sharp O
 drop O
 in O
-Treasuries B-LOC
+Treasuries O
 , O
 but O
 a O
@@ -11289,14 +11289,14 @@ which O
 stunned O
 Belgian B-MISC
 goalkeeper O
-Filip B-PER
+Filip O
 De I-PER
 Wilde I-PER
 . O
 
 George B-PER
 Bush I-PER
-became O
+became I-PER
 president O
 in O
 1988 O
@@ -11374,7 +11374,7 @@ gave O
 defending O
 champion O
 Nate B-PER
-Miller I-PER
+Miller O
 a O
 seventh O
 round O
@@ -11404,7 +11404,7 @@ two O
 girls O
 -- O
 Rachel O
-Legeard O
+Legeard I-PER
 , O
 18 O
 , O
@@ -11530,7 +11530,7 @@ overheating O
 . O
 " O
 
-Newport O
+Newport B-ORG
 29 O
 Caerphilly O
 10 O
@@ -11580,7 +11580,7 @@ N O
 / O
 A O
 
-NEW B-LOC
+NEW B-ORG
 YORK I-LOC
 1996-08-31 O
 
@@ -11634,10 +11634,10 @@ Interfax B-ORG
 At O
 Headingley B-LOC
 ( O
-Leeds B-MISC
+Leeds B-LOC
 ) O
 : O
-Yorkshire B-ORG
+Yorkshire B-PER
 290 O
 and O
 329 O
@@ -11753,7 +11753,7 @@ film O
 
 The O
 University B-ORG
-of I-ORG
+of O
 Michigan I-ORG
 's O
 August O
@@ -11930,7 +11930,7 @@ two O
 weeks O
 . O
 
-Deborah B-PER
+Deborah O
 Charles B-PER
 
 At O
@@ -11999,7 +11999,7 @@ at O
 Grace B-LOC
 Road I-LOC
 , O
-Leicestershire O
+Leicestershire B-ORG
 extended O
 their O
 first O
@@ -12017,7 +12017,7 @@ with O
 England B-LOC
 discard O
 Andy B-PER
-Caddick I-PER
+Caddick O
 taking O
 three O
 for O
@@ -12034,11 +12034,11 @@ condemned O
 the O
 coup O
 by O
-retired O
-Tutsi O
+retired B-MISC
+Tutsi B-MISC
 major O
 Pierre O
-Buyoya I-PER
+Buyoya O
 and O
 for O
 the O
@@ -12129,8 +12129,8 @@ Russell I-PER
 75 O
 ) O
 , O
-Northamptonshire B-PER
-190 I-PER
+Northamptonshire B-ORG
+190 O
 and O
 218-9 O
 . O
@@ -12252,7 +12252,7 @@ owned O
 by O
 John B-PER
 and O
-Beryll O
+Beryll B-PER
 Remblance O
 and O
 trained O
@@ -12306,7 +12306,7 @@ over O
 spot O
 loco O
 London B-LOC
-prices I-PER
+prices O
 , O
 with O
 South B-MISC
@@ -12331,7 +12331,7 @@ Germany B-LOC
 ) O
 1:45.03 O
 
-Newspapers B-PER
+Newspapers B-ORG
 said O
 it O
 killed O
@@ -12364,7 +12364,7 @@ one-day O
 international O
 ( O
 at O
-Lord B-LOC
+Lord B-ORG
 's O
 , O
 London B-LOC
@@ -12374,7 +12374,7 @@ Mike B-PER
 Oquist I-PER
 allowed O
 one O
-Montreal B-ORG
+Montreal O
 hit O
 in O
 the O
@@ -12415,9 +12415,9 @@ Dubovsky I-PER
 ) O
 
 Surrey B-ORG
-all-rounder I-PER
+all-rounder O
 Adam B-PER
-Hollioake O
+Hollioake I-PER
 was O
 making O
 his O
@@ -12434,7 +12434,7 @@ with O
 seamer O
 Peter B-PER
 Martin I-PER
-again O
+again I-PER
 being O
 omitted O
 from O
@@ -12537,7 +12537,7 @@ Hollioake B-PER
 
 Ironically B-PER
 , O
-Bernardin O
+Bernardin B-PER
 , O
 who O
 developed O
@@ -12715,8 +12715,8 @@ million O
 Former O
 Italian B-MISC
 international O
-winger B-PER
-Gianluigi I-PER
+winger O
+Gianluigi O
 Lentini I-PER
 , O
 transferred O
@@ -12778,7 +12778,7 @@ the O
 crash O
 of O
 an O
-El O
+El B-ORG
 Al O
 freighter O
 which O
@@ -12842,13 +12842,13 @@ a O
 barrel O
 . O
 
-HELSINKI O
+HELSINKI B-LOC
 1996-08-30 O
 
 Last O
 month O
 , O
-Wang O
+Wang B-PER
 , O
 45 O
 , O
@@ -12857,9 +12857,9 @@ veteran O
 dissident O
 of O
 the O
-1979 O
-Democracy B-LOC
-Wall I-MISC
+1979 B-ORG
+Democracy I-ORG
+Wall I-LOC
 movement O
 , O
 was O
@@ -12949,7 +12949,7 @@ party O
 's O
 Scottish B-MISC
 executive O
-voted I-PER
+voted O
 21-18 O
 in O
 favour O
@@ -12967,8 +12967,8 @@ for O
 Scotland B-LOC
 . O
 
-Far O
-East B-LOC
+Far B-ORG
+East I-LOC
 gold O
 traders O
 thumped O
@@ -12996,7 +12996,7 @@ much O
 better O
 . O
 
-SEOUL B-ORG
+SEOUL O
 1996-08-31 O
 
 " O
@@ -13020,14 +13020,14 @@ the O
 time O
 , O
 " O
-Jordan B-PER
+Jordan B-ORG
 said O
 in O
 a O
 statement O
 released O
 by O
-Warner O
+Warner B-PER
 Bros O
 . O
 " O
@@ -13069,7 +13069,7 @@ on O
 Saturday O
 : O
 
-MOSCOW B-LOC
+MOSCOW O
 1996-08-30 O
 
 DNIB O
@@ -13155,7 +13155,7 @@ Ulihrach I-PER
 ( O
 Czech B-LOC
 
-MILAN B-LOC
+MILAN O
 1996-08-30 O
 
 Grimsby B-ORG
@@ -13221,7 +13221,7 @@ fight O
 pollution O
 , O
 the O
-China B-LOC
+China B-ORG
 Daily I-ORG
 said O
 on O
@@ -13254,7 +13254,7 @@ minute O
 Mark B-PER
 Hughes I-PER
 ( O
-25th B-ORG
+25th O
 , O
 54th O
 ) O
@@ -13262,7 +13262,7 @@ Hughes I-PER
 Andy B-PER
 Melville I-PER
 ( O
-33rd O
+33rd B-ORG
 ) O
 , O
 John B-PER
@@ -13292,7 +13292,7 @@ a O
 drag O
 strip O
 by O
-Dallas B-ORG
+Dallas O
 youths O
 . O
 
@@ -13309,7 +13309,7 @@ Clignet I-PER
 ( O
 France B-LOC
 ) O
-3:30.974 B-ORG
+3:30.974 O
 ( O
 World O
 Record O
@@ -13462,7 +13462,7 @@ the O
 match O
 as O
 the O
-Swede O
+Swede B-MISC
 battled O
 to O
 acclimate O
@@ -13495,11 +13495,11 @@ $ O
 41 O
 billion O
 in O
-assets O
+assets B-LOC
 , O
 
 Singapore B-LOC
-hangs I-ORG
+hangs O
 Thai B-MISC
 drug O
 trafficker O
@@ -13582,7 +13582,7 @@ SOCCER O
 - O
 BELARUS B-LOC
 BEAT O
-ESTONIA B-ORG
+ESTONIA B-LOC
 IN O
 WORLD B-MISC
 CUP I-MISC
@@ -13726,7 +13726,7 @@ this O
 season O
 , O
 joined O
-Mickey O
+Mickey B-ORG
 Rivers O
 as O
 the O
@@ -13749,7 +13749,7 @@ Teams O
 : O
 
 U.S. B-LOC
-Gulf B-MISC
+Gulf I-LOC
 rig O
 down O
 by O
@@ -13766,7 +13766,7 @@ MILWAUKEE B-ORG
 .478 O
 16 O
 
-2000 B-PER
+2000 O
 60,000 O
 
 Earnings O
@@ -13917,19 +13917,19 @@ SOCCER O
 CANADA B-LOC
 BEAT O
 PANAMA B-LOC
-3-1 O
+3-1 I-LOC
 IN O
 WORLD B-MISC
 CUP I-MISC
 QUALIFIER O
 . O
 
-Orrell O
+Orrell B-ORG
 13 O
 Bath O
 56 O
 
-BELGRADE B-LOC
+BELGRADE O
 1996-08-30 O
 
 3. O
@@ -13993,15 +13993,15 @@ A O
 quick O
 penalty O
 from O
-Van B-LOC
+Van B-PER
 der I-PER
 Westhuizen O
 five O
 metres O
 from O
 the O
-All O
-Black O
+All B-ORG
+Black I-ORG
 line O
 set O
 up O
@@ -14186,7 +14186,7 @@ LONDON B-LOC
 
 SOCCER O
 - O
-SILVA B-ORG
+SILVA B-PER
 'S O
 `LOST O
 PASSPORT O
@@ -14195,10 +14195,10 @@ EXCUSE O
 NOT O
 ENOUGH O
 FOR O
-FIFA B-ORG
+FIFA O
 . O
 
-East B-LOC
+East B-MISC
 Dries O
 miners O
 fail O
@@ -14332,7 +14332,7 @@ Derbyshire B-ORG
 beat O
 Worcestershire B-ORG
 by O
-nine O
+nine B-PER
 wickets O
 . O
 
@@ -14362,7 +14362,7 @@ on O
 the O
 road O
 between O
-Tuzla B-LOC
+Tuzla O
 and O
 Mahala O
 to O
@@ -14395,7 +14395,7 @@ Zemun B-ORG
 1 O
 Rad B-ORG
 ( I-ORG
-B B-LOC
+B I-ORG
 ) I-ORG
 0 O
 
@@ -14448,7 +14448,7 @@ past O
 year O
 by O
 model O
-changeovers I-PER
+changeovers O
 , O
 which O
 had O
@@ -14512,7 +14512,7 @@ KONG I-LOC
 
 TOFTIR O
 , O
-Faroe B-LOC
+Faroe O
 Islands O
 1996-08-31 O
 
@@ -14641,8 +14641,8 @@ a O
 link O
 with O
 the O
-Marc B-MISC
-Dutroux I-PER
+Marc B-ORG
+Dutroux I-LOC
 case O
 , O
 the O
@@ -14667,24 +14667,24 @@ weeks O
 
 1993 O
 - O
-Six B-PER
+Six O
 former O
 Soviet B-MISC
 republics I-PER
 , O
 Russia B-LOC
 , O
-Belarus B-PER
+Belarus B-LOC
 , O
-Kazakhstan O
+Kazakhstan B-PER
 , O
-Uzbekistan O
+Uzbekistan B-PER
 , O
-Armenia O
+Armenia B-PER
 and O
-Tajikistan O
+Tajikistan B-PER
 , O
-signed O
+signed B-PER
 framework O
 agreement O
 to O
@@ -14827,7 +14827,7 @@ officials O
 said O
 . O
 
-Far B-ORG
+Far B-LOC
 East I-LOC
 Gold O
 - O
@@ -14861,9 +14861,9 @@ trading O
 rules O
 of O
 the O
-World B-MISC
-Trade I-ORG
-Organisation I-LOC
+World B-ORG
+Trade I-MISC
+Organisation I-ORG
 . O
 
 G. B-PER
@@ -14948,11 +14948,11 @@ URUS-MARTAN B-LOC
 Russia B-LOC
 1996-08-31 O
 
-291 B-PER
+291 O
 Phillip B-PER
 Price I-PER
 72 O
-76 B-PER
+76 O
 74 O
 69 O
 , O
@@ -15019,10 +15019,10 @@ from O
 Algiers B-LOC
 . O
 
-OTTAWA B-LOC
+OTTAWA O
 1996-08-30 O
 
-M3 O
+M3 B-ORG
 482.13 O
 480.72 O
 461.42 O
@@ -15096,7 +15096,7 @@ posts O
 and O
 scrum-half O
 Justin B-PER
-Marshall I-PER
+Marshall O
 forced O
 himself O
 over O
@@ -15156,7 +15156,7 @@ Peleg I-PER
 
 England B-LOC
 beat O
-Moldova B-PER
+Moldova B-LOC
 2-0 O
 ( O
 halftime O
@@ -15165,7 +15165,7 @@ halftime O
 in O
 a O
 European B-MISC
-Under-21 I-MISC
+Under-21 O
 soccer O
 championship O
 group O
@@ -15251,9 +15251,9 @@ Did O
 not O
 bat O
 : O
-Dharmasena O
+Dharmasena B-PER
 , O
-Vaas O
+Vaas B-LOC
 , O
 Muralitharan O
 . O
@@ -15360,8 +15360,8 @@ BONN B-LOC
 1996-08-30 O
 
 Co-Premiers O
-Prince O
-Norodom I-PER
+Prince B-PER
+Norodom O
 Ranariddh O
 and O
 Hun O
@@ -15564,7 +15564,7 @@ drug-related O
 charges O
 . O
 
-Los B-LOC
+Los B-ORG
 Angeles I-LOC
 won O
 for O
@@ -15592,17 +15592,17 @@ Rios O
 ; O
 13 O
 - O
-Pavel B-PER
+Pavel O
 Pardo I-PER
 , O
 2 O
 - O
-Claudio B-PER
+Claudio O
 Suarez I-PER
 , O
 5 O
 - O
-Duilio B-PER
+Duilio O
 Davino I-PER
 ( O
 Becerril O
@@ -15612,7 +15612,7 @@ Becerril O
 4 O
 - O
 German B-MISC
-Villa I-PER
+Villa O
 ( O
 16 O
 - O
@@ -15622,9 +15622,9 @@ Gomez O
 ; O
 14 O
 - O
-Joaquin B-PER
-del O
-Olmo O
+Joaquin O
+del I-PER
+Olmo I-PER
 , O
 6 O
 - O
@@ -15642,8 +15642,8 @@ Blanco O
 8 O
 - O
 Alberto O
-Garcia I-PER
-Aspe O
+Garcia O
+Aspe I-PER
 , O
 7 O
 - O
@@ -15652,20 +15652,20 @@ Ramirez O
 ( O
 15 O
 - O
-Jesus B-MISC
-Arellano I-MISC
+Jesus O
+Arellano I-PER
 71st O
 ) O
 ; O
 18 O
 - O
-Enrique O
-Alfaro I-PER
+Enrique B-PER
+Alfaro O
 ( O
 17 O
 - O
-Francisco B-PER
-Palencia O
+Francisco O
+Palencia I-PER
 78th O
 ) O
 , O
@@ -15737,7 +15737,7 @@ Lebed B-PER
 said O
 he O
 and O
-Maskhadov B-PER
+Maskhadov O
 agreed O
 to O
 defer O
@@ -15849,8 +15849,8 @@ b O
 Jayasuriya B-PER
 50 O
 
-Suu O
-Kyi I-PER
+Suu B-PER
+Kyi O
 said O
 once O
 the O
@@ -15968,7 +15968,7 @@ Posukhov I-PER
 Lukashenko O
 's O
 political O
-adviser I-PER
+adviser O
 , O
 told O
 Reuters B-ORG
@@ -16027,8 +16027,8 @@ snapped O
 a O
 tie O
 and O
-Shawn O
-Estes I-PER
+Shawn B-PER
+Estes O
 came O
 one O
 out O
@@ -16079,14 +16079,14 @@ league O
 Chaminda B-PER
 Vaas O
 , O
-Muthiah B-PER
+Muthiah O
 Muralitharan O
 , O
 Upul O
 Chandana O
 . O
 
-DUBLIN O
+DUBLIN B-LOC
 1996-08-30 O
 
 Reading B-ORG
@@ -16139,8 +16139,8 @@ Cup B-MISC
 " O
 U.S. B-LOC
 captain O
-Billie O
-Jean B-PER
+Billie B-PER
+Jean I-PER
 King I-PER
 said O
 at O
@@ -16357,7 +16357,7 @@ Nigeria B-LOC
 
 Paper B-ORG
 says O
-Thatcher B-LOC
+Thatcher B-PER
 's O
 office O
 consulted O
@@ -16391,7 +16391,7 @@ Zealand I-LOC
 ) O
 36.831 O
 
-During O
+During B-PER
 Rosati B-PER
 's O
 trip O
@@ -16437,7 +16437,7 @@ Newsroom I-ORG
 40-1 O
 3120264 O
 
-Thatcher O
+Thatcher B-PER
 , O
 dubbed O
 the O
@@ -16495,14 +16495,14 @@ CYCLING O
 - O
 TOUR B-MISC
 OF I-MISC
-NETHERLANDS I-MISC
+NETHERLANDS O
 FINAL O
 RESULTS O
 / O
 STANDINGS O
 . O
 
-Ironically O
+Ironically B-PER
 , O
 Karbacher O
 two O
@@ -16566,7 +16566,7 @@ official O
 . O
 
 July O
-19-21 O
+19-21 B-ORG
 v O
 Middlesex B-ORG
 ( O
@@ -16581,7 +16581,7 @@ Michigan B-ORG
 National I-ORG
 Bank I-ORG
 , O
-Detroit B-ORG
+Detroit I-ORG
 
 " O
 I O
@@ -16760,8 +16760,8 @@ Oct. O
 2 O
 . O
 
-Glenn O
-Somerville I-PER
+Glenn B-PER
+Somerville O
 
 LG B-ORG
 46 O
@@ -16770,7 +16770,7 @@ LG B-ORG
 .441 O
 17 O
 
-Vidadi O
+Vidadi B-PER
 Rzayev I-PER
 ( O
 28th O
@@ -16837,7 +16837,7 @@ formal O
 commitment O
 from O
 ( O
-Air B-ORG
+Air O
 France B-LOC
 chairman O
 ) O
@@ -16916,7 +16916,7 @@ actual O
 start O
 , O
 " O
-EOE B-ORG
+EOE O
 spokesman O
 Lex B-PER
 van I-PER
@@ -16940,7 +16940,7 @@ Reynard B-PER
 Ford I-PER
 Cosworth O
 , O
-54.762 B-PER
+54.762 O
 
 Moin B-PER
 Khan I-PER
@@ -17054,7 +17054,7 @@ illiquid O
 . O
 
 The O
-Dole B-ORG
+Dole B-PER
 campaign O
 released O
 a O
@@ -17146,7 +17146,7 @@ by O
 Belgrade B-LOC
 airport O
 , O
-Tanjug O
+Tanjug B-ORG
 said O
 . O
 
@@ -17179,7 +17179,7 @@ peace O
 talks O
 . O
 
-Fights O
+Fights B-PER
 and O
 shooting O
 broke O
@@ -17309,9 +17309,9 @@ Olympic B-MISC
 champion O
 Lindsay O
 ) O
-Davenport B-ORG
+Davenport O
 and O
-Mary B-MISC
+Mary O
 Joe O
 Fernandez O
 . O
@@ -17330,7 +17330,7 @@ $ O
 1.2 O
 million O
 Greater B-MISC
-Milwaukee I-MISC
+Milwaukee B-MISC
 Open I-MISC
 at O
 the O
@@ -17420,7 +17420,7 @@ hard-fought O
 victory O
 over O
 10-man O
-Turkey I-PER
+Turkey B-LOC
 in O
 a O
 tense O
@@ -17549,7 +17549,7 @@ a O
 police O
 official O
 in O
-Liege O
+Liege B-LOC
 said O
 . O
 
@@ -17585,7 +17585,7 @@ ministry O
 said O
 Levy B-PER
 and O
-Kinkel O
+Kinkel B-PER
 would O
 discuss O
 the O
@@ -17646,7 +17646,7 @@ Wolverhampton B-ORG
 0 O
 
 Naina B-PER
-Yeltsin B-PER
+Yeltsin I-PER
 had O
 a O
 kidney O
@@ -17706,9 +17706,9 @@ director O
 of O
 the O
 industry-funded B-ORG
-National I-ORG
-Automobile I-LOC
-Occupant I-MISC
+National B-ORG
+Automobile I-ORG
+Occupant I-ORG
 Protection I-ORG
 Campaign I-ORG
 , O
@@ -17772,7 +17772,7 @@ manufacturing O
 remained O
 well O
 in O
-check B-LOC
+check O
 . O
 
 Total O
@@ -17790,7 +17790,7 @@ The O
 speaker O
 of O
 the O
-Belarus O
+Belarus B-LOC
 parliament O
 , O
 Semyon B-PER
@@ -17890,7 +17890,7 @@ holes O
 
 " O
 The O
-Israelis O
+Israelis B-MISC
 have O
 no O
 right O
@@ -17931,8 +17931,8 @@ series O
 The O
 Federal B-LOC
 Republic I-LOC
-of I-LOC
-Yugoslavia I-ORG
+of O
+Yugoslavia I-LOC
 is O
 the O
 only O
@@ -17970,7 +17970,7 @@ RACE O
 . O
 
 ( O
-All B-ORG
+All O
 Data I-ORG
 Above O
 000s O
@@ -18065,7 +18065,7 @@ the O
 158 O
 F O
 / O
-A-18 B-LOC
+A-18 O
 , O
 F-14 O
 and O
@@ -18081,7 +18081,7 @@ and O
 Enterprise O
 , O
 the O
-Air B-ORG
+Air O
 Force O
 air O
 expeditionary O
@@ -18191,7 +18191,7 @@ revolutionary O
 An O
 explosion O
 leveled O
-Rochester O
+Rochester I-PER
 's O
 one-story O
 Lilac O
@@ -18256,7 +18256,7 @@ at O
 Jerusalem B-LOC
 's O
 al-Aqsa B-LOC
-mosque I-LOC
+mosque O
 on O
 Friday O
 . O
@@ -18396,7 +18396,7 @@ metals O
 were O
 unchanged O
 in O
-narrow B-LOC
+narrow O
 trade O
 , O
 they O
@@ -18519,8 +18519,8 @@ before O
 Dole B-PER
 decided O
 on O
-Jack O
-Kemp I-PER
+Jack B-PER
+Kemp O
 , O
 will O
 head O
@@ -18571,7 +18571,7 @@ SOCCER O
 - O
 UKRAINE B-LOC
 BEAT O
-NORTHERN B-ORG
+NORTHERN B-LOC
 IRELAND O
 IN O
 WORLD B-MISC
@@ -18621,7 +18621,7 @@ Nelson B-PER
 Mandela I-PER
 's O
 majority O
-African I-MISC
+African B-ORG
 National I-ORG
 Congress I-ORG
 . O
@@ -18640,7 +18640,7 @@ problem O
 I O
 'm O
 sure O
-Alan O
+Alan B-PER
 is O
 the O
 man O
@@ -18706,7 +18706,7 @@ London B-LOC
 May O
 15 O
 v O
-Duke B-ORG
+Duke O
 of O
 Norfolk O
 's O
@@ -18792,7 +18792,7 @@ YORK I-ORG
 .556 O
 - O
 
-MOSCOW B-LOC
+MOSCOW O
 1996-08-30 O
 
 Queens B-ORG
@@ -18862,7 +18862,7 @@ Fulgencio O
 Batista O
 . O
 
-Duran O
+Duran B-PER
 , O
 whose O
 97-12 O
@@ -18923,7 +18923,7 @@ has O
 three O
 career O
 PGA O
-Tour I-LOC
+Tour I-MISC
 victories O
 , O
 but O
@@ -18931,8 +18931,8 @@ none O
 since O
 the O
 1993 O
-BellSouth B-LOC
-Classic I-LOC
+BellSouth O
+Classic O
 . O
 
 South B-LOC
@@ -18957,7 +18957,7 @@ Joel B-PER
 Stransky I-PER
 , O
 48 O
-mins O
+mins I-PER
 ) O
 12 O
 - O
@@ -18981,7 +18981,7 @@ Joost B-PER
 van I-PER
 der I-PER
 Westhuizen I-PER
-; O
+; I-PER
 8 O
 - O
 Gary B-PER
@@ -19011,7 +19011,7 @@ Kruge I-PER
 Mark B-PER
 Andrews I-PER
 ( O
-Fritz B-PER
+Fritz O
 van I-PER
 Heerden I-PER
 , O
@@ -19038,7 +19038,7 @@ Dalton I-PER
 Dawie B-PER
 Theron I-PER
 ( O
-Garry O
+Garry B-PER
 Pagel I-PER
 , O
 66 O
@@ -19171,7 +19171,7 @@ camps O
 around O
 the O
 eastern O
-Zairean O
+Zairean B-MISC
 border O
 town O
 of O
@@ -19184,7 +19184,7 @@ police O
 backed O
 by O
 explosive O
-experts I-PER
+experts O
 were O
 combing O
 the O
@@ -19236,7 +19236,7 @@ ROMANIA B-LOC
 BEAT O
 LITHUANIA B-LOC
 IN O
-U-21 B-MISC
+U-21 O
 QUALIFIER O
 . O
 
@@ -19279,7 +19279,7 @@ Rumors O
 circulated O
 that O
 the O
-Federal B-LOC
+Federal B-ORG
 Reserve I-ORG
 was O
 buying O
@@ -19349,10 +19349,10 @@ Haitai B-ORG
 - O
 
 SK O
-Rapid B-PER
+Rapid I-PER
 's O
-Dietmar O
-Kuehbauer I-PER
+Dietmar B-PER
+Kuehbauer O
 , O
 who O
 gave O
@@ -19415,9 +19415,9 @@ points O
 
 Cofinec B-ORG
 's O
-Global B-MISC
-Depositary I-MISC
-Receipts I-MISC
+Global O
+Depositary O
+Receipts I-PER
 ( O
 GDRs O
 ) O
@@ -19452,7 +19452,7 @@ morning O
 I O
 am O
 heeding O
-Abu B-PER
+Abu O
 Ammar O
 's O
 ( O
@@ -19484,7 +19484,7 @@ said O
 " O
 especially O
 as O
-experience O
+experience B-PER
 is O
 becoming O
 more O
@@ -19632,7 +19632,7 @@ months O
 
 The O
 Nasdaq B-MISC
-composite B-MISC
+composite O
 index O
 closed O
 3.53 O
@@ -19655,7 +19655,7 @@ City I-ORG
 
 BASKETBALL O
 - O
-TROFEJ B-MISC
+TROFEJ O
 BEOGRAD O
 TOURNAMENT O
 RESULTS O
@@ -19770,8 +19770,8 @@ pressure O
 " O
 said O
 broker O
-Shakil I-PER
-Rizvi I-PER
+Shakil O
+Rizvi O
 . O
 
 Spending O
@@ -19821,9 +19821,9 @@ bond O
 future O
 on O
 the O
-Chicago B-LOC
+Chicago B-ORG
 Board I-ORG
-of O
+of I-ORG
 Trade I-ORG
 was O
 trading O
@@ -19842,7 +19842,7 @@ price O
 Sami O
 Aboudi O
 
-2001 B-PER
+2001 O
 65,000 O
 
 Standings O
@@ -19864,7 +19864,7 @@ SOCCER O
 - O
 AZERBAIJAN B-LOC
 BEAT O
-SWITZERLAND B-ORG
+SWITZERLAND B-LOC
 IN O
 WORLD B-MISC
 CUP I-MISC
@@ -19994,7 +19994,7 @@ of O
 Olympic B-MISC
 champions O
 including O
-Bailey O
+Bailey B-PER
 to O
 win O
 the O
@@ -20018,7 +20018,7 @@ MINNESOTA B-ORG
 AT O
 MILWAUKEE B-LOC
 
-Wang O
+Wang B-PER
 was O
 arrested O
 in O
@@ -20188,7 +20188,7 @@ any O
 casualties O
 . O
 
-NEW B-LOC
+NEW B-ORG
 YORK I-LOC
 1996-08-31 O
 
@@ -20239,8 +20239,8 @@ SOCCER O
 FRANCE B-PER
 LAUNCH O
 1998 O
-WORLD B-MISC
-CUP I-MISC
+WORLD O
+CUP O
 BUILD-UP O
 WITH O
 2-0 O
@@ -20257,7 +20257,7 @@ Bruno O
 , O
 told O
 the O
-Sun B-MISC
+Sun B-ORG
 : O
 " O
 There O
@@ -20326,7 +20326,7 @@ selected O
 ahead O
 of O
 Phil O
-Babb I-PER
+Babb O
 in O
 defence O
 , O
@@ -20442,7 +20442,7 @@ Kenya B-LOC
 
 Fredericks B-PER
 ( O
-Namibia O
+Namibia B-LOC
 ) O
 , O
 Linford B-PER
@@ -20461,7 +20461,7 @@ director O
 of O
 the O
 New B-ORG
-York-based I-LOC
+York-based I-ORG
 group O
 Human B-ORG
 Rights I-ORG
@@ -20517,7 +20517,7 @@ is O
 waiting O
 , O
 " O
-North B-MISC
+North B-ORG
 Korean I-MISC
 Red I-ORG
 Cross I-ORG
@@ -20538,7 +20538,7 @@ Kang O
 Young-hoon O
 . O
 
-Welsh B-MISC
+Welsh O
 rugby O
 union O
 matches O
@@ -20679,7 +20679,7 @@ with O
 powerful O
 C-4 O
 plastic O
-explosives I-PER
+explosives O
 were O
 found O
 stashed O
@@ -20728,7 +20728,7 @@ drug O
 trafficker O
 . O
 
-Beck B-PER
+Beck O
 allowed O
 a O
 two-run O
@@ -20797,7 +20797,7 @@ The O
 move O
 to O
 Bergamo-based O
-Atalanta B-PER
+Atalanta O
 reunites O
 Lentini I-PER
 , O
@@ -20865,7 +20865,7 @@ a O
 satellite O
 city O
 outside O
-Cairo B-LOC
+Cairo O
 . O
 
 World B-MISC
@@ -21009,7 +21009,7 @@ defence O
 to O
 score O
 the O
-Springboks B-MISC
+Springboks B-ORG
 ' O
 second O
 try O
@@ -21180,7 +21180,7 @@ Laurent O
 Cabannes O
 and O
 Laurent O
-Benezech I-PER
+Benezech O
 scoring O
 a O
 try O
@@ -21192,7 +21192,7 @@ side O
 75-19 O
 victory O
 over O
-Gloucester B-ORG
+Gloucester O
 . O
 
 WASHINGTON B-LOC
@@ -21237,7 +21237,7 @@ work O
 . O
 
 NSW O
-Treasury B-ORG
+Treasury I-ORG
 launched O
 a O
 A$ B-MISC
@@ -21289,8 +21289,8 @@ Henke B-PER
 . O
 " O
 
-Zycie O
-Warszawy I-PER
+Zycie B-PER
+Warszawy O
 said O
 the O
 new O
@@ -21312,8 +21312,8 @@ Monday O
 inform O
 Privatisation O
 Minister O
-Wieslaw O
-Kaczmarek I-PER
+Wieslaw B-PER
+Kaczmarek O
 of O
 its O
 plans O
@@ -21409,7 +21409,7 @@ Reading B-ORG
 Stoke B-ORG
 2 O
 
-IPO O
+IPO B-ORG
 FILING O
 -- O
 Homegate B-ORG
@@ -21470,7 +21470,7 @@ KeyCorp O
 , O
 contacted O
 by O
-phone B-PER
+phone O
 , O
 would O
 not O
@@ -21483,8 +21483,8 @@ absentee O
 Nicolas B-PER
 Ouedec I-PER
 and O
-Youri O
-Djorkaeff I-PER
+Youri B-PER
+Djorkaeff O
 scored O
 the O
 goals O
@@ -21660,7 +21660,7 @@ question O
 of O
 whether O
 the O
-Federal B-LOC
+Federal B-ORG
 Reserve I-ORG
 will O
 raise O
@@ -21758,7 +21758,7 @@ and O
 solidarity O
 , O
 " O
-Damascus B-LOC
+Damascus B-ORG
 radio O
 said O
 . O
@@ -21795,8 +21795,8 @@ Lindsey B-PER
 said O
 . O
 
-World B-MISC
-sprint I-MISC
+World O
+sprint O
 championship O
 quarter O
 finals O
@@ -21856,7 +21856,7 @@ was O
 war O
 . O
 
-Lukashenko O
+Lukashenko B-PER
 signed O
 a O
 pact O
@@ -21891,11 +21891,11 @@ Chandana B-PER
 6 O
 
 Atlanta B-MISC
-Games I-MISC
+Games B-ORG
 silver O
 medal O
-winner B-PER
-Edwards B-PER
+winner O
+Edwards O
 has O
 called O
 on O
@@ -21933,12 +21933,12 @@ grand O
 prix O
 final O
 in O
-Milan B-LOC
+Milan B-ORG
 . O
 
 IRVINE B-LOC
 , O
-Calif O
+Calif B-LOC
 1996-08-30 O
 
 Turkey B-LOC
@@ -21970,7 +21970,7 @@ injuries O
 . O
 
 A O
-Guinean B-MISC
+Guinean O
 man O
 , O
 detained O
@@ -22003,11 +22003,11 @@ failed O
 a O
 spokesman O
 for O
-Air B-ORG
-France I-ORG
+Air O
+France B-LOC
 's O
-pro-Socialist O
-CFDT O
+pro-Socialist B-ORG
+CFDT I-ORG
 union O
 said O
 . O
@@ -22079,7 +22079,7 @@ What O
 this O
 means O
 in O
-practice B-LOC
+practice O
 is O
 that O
 Hong B-LOC
@@ -22179,7 +22179,7 @@ newspapers O
 quoted O
 the O
 Human B-ORG
-Rights I-ORG
+Rights B-ORG
 National I-ORG
 Observatory I-ORG
 ( O
@@ -22244,7 +22244,7 @@ Insein O
 Prison O
 . O
 
-7-0-32-0 O
+7-0-32-0 B-PER
 , O
 Irani B-PER
 2-0-22-0 O
@@ -22277,19 +22277,19 @@ halftime O
 50-28 O
 ) O
 
-NEW B-LOC
+NEW B-ORG
 YORK I-LOC
 1996-08-31 O
 
 BASKETBALL O
 - O
-BENETTON B-ORG
+BENETTON O
 BEAT O
-DINAMO B-ORG
+DINAMO O
 92-81 O
 . O
 
-Bruno B-PER
+Bruno O
 suffered O
 a O
 cut O
@@ -22469,7 +22469,7 @@ yield O
 percent O
 . O
 
-Urus-Martan B-PER
+Urus-Martan O
 is O
 a O
 traditionally O
@@ -22542,7 +22542,7 @@ $ O
 1 O
 billion O
 donation O
-Libyan B-MISC
+Libyan O
 leader O
 Muammar B-PER
 Gaddafi I-PER
@@ -22567,7 +22567,7 @@ MILWAUKEE B-LOC
 Wisconsin B-LOC
 1996-08-29 O
 
-COLOMBO B-LOC
+COLOMBO O
 1996-08-30 O
 
 Men O
@@ -22581,7 +22581,7 @@ of I-ORG
 Democratic I-ORG
 Action I-ORG
 ( O
-SDA B-MISC
+SDA O
 ) O
 had O
 called O
@@ -22709,12 +22709,12 @@ miles O
 ) O
 east O
 of O
-Tavildara O
+Tavildara B-LOC
 around O
 the O
 village O
 of O
-Layron O
+Layron B-LOC
 . O
 
 Estes B-PER
@@ -22784,9 +22784,9 @@ against O
 
 Trailing O
 by O
-213 B-PER
+213 O
 , O
-Somerset B-PER
+Somerset O
 got O
 a O
 solid O
@@ -22963,7 +22963,7 @@ support O
 " O
 Ramos B-PER
 told O
-Suharto O
+Suharto B-ORG
 in O
 a O
 letter O
@@ -23009,12 +23009,12 @@ headquarters O
 of O
 the O
 U.N. B-ORG
-Interim I-ORG
-Force I-ORG
+Interim O
+Force O
 in O
 Lebanon B-LOC
 ( O
-UNIFIL B-MISC
+UNIFIL O
 ) O
 . O
 
@@ -23029,7 +23029,7 @@ SOCCER O
 - O
 ROMANIA B-LOC
 BEAT O
-LITHUANIA B-ORG
+LITHUANIA B-LOC
 IN O
 WORLD B-MISC
 CUP I-MISC
@@ -23057,7 +23057,7 @@ SOCCER O
 - O
 BELGIUM B-LOC
 BEAT O
-TURKEY B-ORG
+TURKEY B-LOC
 2-1 O
 IN O
 WORLD B-MISC
@@ -23075,8 +23075,8 @@ Germany B-LOC
 
 Panama O
 - O
-Jorge B-PER
-Luis O
+Jorge B-MISC
+Luis I-PER
 Dely I-PER
 Valdes I-PER
 ( O
@@ -23095,7 +23095,7 @@ the O
 third O
 set O
 , O
-Edberg O
+Edberg B-PER
 was O
 not O
 surprised O
@@ -23147,7 +23147,7 @@ Party I-ORG
 KDP B-ORG
 ) O
 of O
-Massoud B-PER
+Massoud B-LOC
 Barzani I-PER
 said O
 that O
@@ -23158,7 +23158,7 @@ backed O
 by O
 Iraqi B-MISC
 heavy O
-armour I-PER
+armour O
 and O
 artillery O
 in O
@@ -23166,7 +23166,7 @@ a O
 battle O
 with O
 rival O
-Kurds I-MISC
+Kurds B-MISC
 for O
 the O
 city O
@@ -23210,7 +23210,7 @@ Thursday O
 
 Police O
 suspect O
-Nicole O
+Nicole B-PER
 Nichterwitz I-PER
 's O
 aunt O
@@ -23307,7 +23307,7 @@ report O
 showing O
 the O
 Chicago B-LOC
-Purchasing I-ORG
+Purchasing O
 Managers O
 August O
 index O
@@ -23349,7 +23349,7 @@ preparing O
 for O
 war O
 with O
-Arabs B-PER
+Arabs B-ORG
 . O
 
 -- O
@@ -23379,8 +23379,8 @@ said O
 . O
 " O
 
-London B-ORG
-Irish I-ORG
+London B-LOC
+Irish B-MISC
 27 O
 Bristol O
 28 O
@@ -23441,9 +23441,9 @@ the O
 president O
 ordered O
 the O
-Department O
-of O
-Defense O
+Department B-ORG
+of I-ORG
+Defense I-ORG
 to O
 take O
 prudent O
@@ -23580,7 +23580,7 @@ km O
 nine-mile O
 ) O
 south O
-Lebanon O
+Lebanon B-LOC
 occupation O
 zone O
 which O
@@ -23619,7 +23619,7 @@ major O
 trendline O
 level O
 at O
-106-26/32 O
+106-26/32 B-LOC
 , O
 as O
 the O
@@ -23691,7 +23691,7 @@ Daniels B-ORG
 Pharmaceuticals I-ORG
 Inc I-ORG
 of O
-St. B-LOC
+St. I-ORG
 Petersburg I-LOC
 , O
 Fla. O
@@ -23714,7 +23714,7 @@ Zealand I-LOC
 Christian B-PER
 Cullen I-PER
 ( O
-Alama B-PER
+Alama O
 Ieremia I-PER
 , O
 70 O
@@ -23878,7 +23878,7 @@ Arbil O
 
 3. O
 Ekimov B-PER
-1:7 I-PER
+1:7 O
 
 1. O
 Stefka B-PER
@@ -24004,11 +24004,11 @@ period O
 , O
 Federal B-ORG
 Air I-ORG
-Traffic O
-Control O
-Administration O
-Director O
-Branko O
+Traffic I-ORG
+Control I-ORG
+Administration I-ORG
+Director I-ORG
+Branko B-PER
 Bilbija O
 said O
 . O
@@ -24023,7 +24023,7 @@ United I-ORG
 4 O
 5 O
 
-Gold B-ORG
+Gold O
 closed O
 down O
 at O
@@ -24040,7 +24040,7 @@ Kong I-LOC
 on O
 Friday O
 , O
-versus O
+versus B-ORG
 New B-ORG
 York I-ORG
 's O
@@ -24168,7 +24168,7 @@ CHICAGO B-ORG
 Atlanta B-ORG
 2 O
 ( O
-1st O
+1st B-PER
 game O
 ) O
 
@@ -24229,7 +24229,7 @@ Manila O
 hails O
 Indonesia B-LOC
 , O
-OIC O
+OIC B-LOC
 for O
 peace O
 deal O
@@ -24260,8 +24260,8 @@ expected O
 
 F.A. O
 : O
-First B-ORG
-of I-ORG
+First O
+of O
 Michigan I-ORG
 Corp. I-ORG
 , O
@@ -24314,7 +24314,7 @@ called O
 the O
 Wuxi O
 Tong O
-Ling I-ORG
+Ling B-ORG
 Company I-ORG
 Ltd I-ORG
 , O
@@ -24335,7 +24335,7 @@ factory O
 in O
 Wuxi B-LOC
 , O
-Jiangsu O
+Jiangsu B-LOC
 province O
 , O
 Shanghai B-LOC
@@ -24386,12 +24386,12 @@ the O
 collapse O
 of O
 the O
-Soviet B-LOC
+Soviet B-ORG
 Union I-LOC
 . O
 
-Louis B-LOC
-based I-PER
+Louis B-ORG
+based O
 thrift O
 . O
 
@@ -24399,7 +24399,7 @@ thrift O
 - O
 Bishop B-PER
 Desmond B-PER
-Tutu O
+Tutu I-PER
 was O
 enthroned O
 as O
@@ -24442,19 +24442,19 @@ Asia O
 , O
 " O
 said O
-Pirelli O
-SpA I-PER
+Pirelli B-PER
+SpA O
 chairman O
 and O
 chief O
 executive O
 officer O
-Marco I-PER
+Marco B-PER
 Tonchetti I-PER
 Provera O
 . O
 
-Wang O
+Wang B-PER
 was O
 jailed O
 for O
@@ -24498,8 +24498,8 @@ banners O
 praise O
 the O
 " O
-great O
-revolution O
+great B-MISC
+revolution I-MISC
 " O
 and O
 promise O
@@ -24510,7 +24510,7 @@ Nations I-ORG
 sanctions O
 imposed O
 for O
-Libya B-LOC
+Libya B-ORG
 's O
 refusal O
 to O
@@ -24548,9 +24548,9 @@ the O
 second O
 game O
 when O
-Chipper B-PER
+Chipper O
 Jones I-PER
-singled I-PER
+singled O
 home O
 the O
 tying O
@@ -24562,8 +24562,8 @@ of O
 the O
 ninth O
 and O
-Andruw B-PER
-Jones B-PER
+Andruw O
+Jones I-PER
 took O
 advantage O
 of O
@@ -24587,11 +24587,11 @@ victory O
 
 Note O
 - O
-Lotte O
+Lotte B-LOC
 and O
-Hyundai O
+Hyundai B-LOC
 , O
-Haitai B-ORG
+Haitai O
 and O
 Samsung O
 played O
@@ -24608,7 +24608,7 @@ shot O
 on O
 location O
 in O
-Dublin O
+Dublin B-LOC
 with O
 Jordan B-LOC
 using O
@@ -24656,7 +24656,7 @@ the O
 poisonous O
 liquor O
 , O
-Xinhua O
+Xinhua B-PER
 said O
 . O
 
@@ -24753,7 +24753,7 @@ City I-LOC
 . O
 
 between O
-Roermond B-LOC
+Roermond O
 and O
 Landgraaf O
 on O
@@ -24888,7 +24888,7 @@ on O
 Friday O
 . O
 
-MARTELA O
+MARTELA B-ORG
 H1 O
 PROFIT O
 FIM O
@@ -24965,7 +24965,7 @@ SOCCER O
 - O
 IRELAND B-LOC
 BEAT O
-LIECHTENSTEIN B-ORG
+LIECHTENSTEIN B-LOC
 5-0 O
 IN O
 WORLD B-MISC
@@ -24975,8 +24975,8 @@ QUALIFIER O
 
 Daughter O
 of O
-Henry B-LOC
-VIII I-PER
+Henry B-PER
+VIII O
 and O
 his O
 second O
@@ -25147,9 +25147,9 @@ Britain B-LOC
 ) O
 52.05 O
 
-Li B-PER
+Li O
 said O
-Kim B-PER
+Kim B-ORG
 had O
 been O
 critically O
@@ -25208,7 +25208,7 @@ Hereford B-ORG
 3 O
 4 O
 
-Hla O
+Hla B-PER
 Than I-PER
 , O
 an O
@@ -25267,7 +25267,7 @@ in O
 on O
 victory O
 while O
-Kent O
+Kent B-ORG
 made O
 up O
 for O
@@ -25281,7 +25281,7 @@ against O
 Nottinghamshire B-ORG
 . O
 
-GENEVA B-LOC
+GENEVA O
 1996-08-30 O
 
 HOUSTON B-ORG
@@ -25416,7 +25416,7 @@ LEICESTERSHIRE B-PER
 TAKE O
 OVER O
 AT O
-TOP O
+TOP B-LOC
 AFTER O
 INNINGS O
 VICTORY O
@@ -25448,7 +25448,7 @@ from O
 her O
 school O
 in O
-Velten O
+Velten B-LOC
 near O
 Berlin B-LOC
 on O
@@ -25579,7 +25579,7 @@ He O
 was O
 apparently O
 the O
-eighth B-MISC
+eighth O
 African B-MISC
 deported O
 from O
@@ -25816,7 +25816,7 @@ bids O
 . O
 
 Around O
-2,000 I-PER
+2,000 O
 of O
 Indonesia B-LOC
 's O
@@ -25879,7 +25879,7 @@ anew O
 
 Sweden B-LOC
 beat O
-Latvia B-PER
+Latvia B-ORG
 2-0 O
 ( O
 halftime O
@@ -25916,7 +25916,7 @@ country O
 first O
 democratically O
 elected O
-Hutu O
+Hutu B-MISC
 president O
 was O
 killed O
@@ -25985,7 +25985,7 @@ first O
 pitch O
 from O
 Pete B-PER
-Harnisch O
+Harnisch I-PER
 ( O
 8-10 O
 ) O
@@ -25999,7 +25999,7 @@ fence O
 to O
 put O
 the O
-Giants B-LOC
+Giants O
 up O
 4-2 O
 . O
@@ -26012,7 +26012,7 @@ Moore I-PER
 3rd O
 minute O
 , O
-88th O
+88th B-PER
 on O
 penalty O
 kick O
@@ -26102,7 +26102,7 @@ Yugoslavia B-LOC
 . O
 
 Ata-ur-Rehman B-PER
-6-0-40-1 I-PER
+6-0-40-1 O
 , O
 Saqlain B-PER
 Mushtaq I-PER
@@ -26158,7 +26158,7 @@ chief O
 investment O
 officer O
 at O
-First B-LOC
+First B-ORG
 Albany I-ORG
 Corp. I-ORG
 " O
@@ -26311,7 +26311,7 @@ Newsdesk I-ORG
 . O
 
 Broker O
-Khurshid B-PER
+Khurshid O
 Alam I-PER
 said O
 : O
@@ -26324,7 +26324,7 @@ remain O
 strong O
 . O
 
-SEOUL B-ORG
+SEOUL O
 1996-08-31 O
 
 " O
@@ -26356,7 +26356,7 @@ spokesman O
 of O
 the O
 Iraqi B-ORG
-National I-MISC
+National I-ORG
 Congress I-ORG
 said O
 Iraqi B-MISC
@@ -26459,8 +26459,8 @@ first O
 novel O
 , O
 " O
-Bertillon O
-166 I-PER
+Bertillon B-PER
+166 O
 , O
 " O
 was O
@@ -26521,7 +26521,7 @@ connection O
 -- O
 bad O
 boy O
-Jeff B-PER
+Jeff B-LOC
 Tarango I-PER
 . O
 
@@ -26547,7 +26547,7 @@ but O
 played O
 by O
 the O
-referee B-LOC
+referee O
 's O
 decision O
 . O
@@ -26752,7 +26752,7 @@ his O
 fourth O
 career O
 PGA O
-Tour O
+Tour I-MISC
 victory O
 and O
 first O
@@ -26772,7 +26772,7 @@ at O
 night O
 . O
 
-Public O
+Public B-MISC
 prosecutors O
 said O
 they O
@@ -26819,7 +26819,7 @@ CRICKET O
 - O
 PAKISTAN B-LOC
 WIN O
-TOSS B-PER
+TOSS O
 , O
 PUT O
 ENGLAND B-LOC
@@ -26923,7 +26923,7 @@ do O
 so O
 . O
 
-COLOMBO B-LOC
+COLOMBO O
 1996-08-30 O
 
 Summary O
@@ -26959,7 +26959,7 @@ Carlos I-PER
 . O
 
 Brad B-PER
-Dorfman I-PER
+Dorfman O
 
 6. O
 Adem B-PER
@@ -27136,8 +27136,8 @@ robbers O
 the O
 News B-ORG
 Agency I-ORG
-of O
-Nigeria B-LOC
+of I-ORG
+Nigeria I-ORG
 quoted O
 the O
 unnamed O
@@ -27170,7 +27170,7 @@ Borac B-ORG
 Mladost B-ORG
 ( I-ORG
 L I-ORG
-) I-ORG
+) O
 2 O
 
 UK B-LOC
@@ -27178,7 +27178,7 @@ meals O
 / O
 feeds O
 follow O
-Chicago B-ORG
+Chicago B-LOC
 higher O
 , O
 trade O
@@ -27262,8 +27262,8 @@ Markham O
 Ontario-based O
 Magna O
 's O
-North B-LOC
-American I-MISC
+North B-ORG
+American I-ORG
 car O
 and O
 truck O
@@ -27325,8 +27325,8 @@ the O
 budget O
 . O
 
-Right B-PER
-now O
+Right O
+now I-PER
 , O
 Wall B-LOC
 Street I-LOC
@@ -27406,14 +27406,14 @@ me O
 
 BASEBALL O
 - O
-KEVIN B-PER
+KEVIN O
 BROWN O
 LOWERS O
 ERA O
 AS O
 MARLINS O
 BEAT O
-REDS B-ORG
+REDS O
 . O
 
 Attendance O
@@ -27485,7 +27485,7 @@ own O
 Last O
 month O
 , O
-Wang O
+Wang B-PER
 , O
 45 O
 , O
@@ -27494,9 +27494,9 @@ veteran O
 dissident O
 of O
 the O
-1979 O
-Democracy B-LOC
-Wall I-MISC
+1979 B-ORG
+Democracy I-ORG
+Wall I-LOC
 movement O
 , O
 was O
@@ -27598,7 +27598,7 @@ Detroit B-LOC
 , O
 Todd B-PER
 Van I-PER
-Poppel O
+Poppel I-PER
 pitched O
 a O
 five-hitter O
@@ -27652,7 +27652,7 @@ Bournemouth B-ORG
 
 Separately O
 , O
-Juppe O
+Juppe B-PER
 confirmed O
 the O
 conservative O
@@ -27920,7 +27920,7 @@ moments O
 , O
 " O
 said O
-Washington B-LOC
+Washington B-PER
 . O
 " O
 
@@ -27979,7 +27979,7 @@ Seattle B-ORG
 in O
 the O
 West B-LOC
-increased I-LOC
+increased O
 to O
 six O
 . O
@@ -28067,7 +28067,7 @@ to O
 capitalise O
 on O
 the O
-rapidly-growing B-LOC
+rapidly-growing O
 Chinese B-MISC
 telecommunications O
 market O
@@ -28075,7 +28075,7 @@ market O
 
 Representatives B-ORG
 of O
-First B-ORG
+First I-ORG
 Bank I-ORG
 , O
 Norwest O
@@ -28083,8 +28083,8 @@ Norwest O
 Banc O
 One O
 and O
-First O
-Chicago B-LOC
+First B-ORG
+Chicago I-ORG
 said O
 the O
 banks O
@@ -28145,13 +28145,13 @@ run-in O
 . O
 
 10. O
-Skibby B-PER
+Skibby B-LOC
 1:45 O
 
 LONDON B-LOC
 1996-08-30 O
 
-Chicago B-LOC
+Chicago B-ORG
 Cardinal O
 Joseph B-PER
 Bernardin I-PER
@@ -28160,7 +28160,7 @@ head O
 of O
 the O
 second-largest O
-U.S. B-LOC
+U.S. B-MISC
 Roman B-MISC
 Catholic I-MISC
 archdiocese O
@@ -28301,8 +28301,8 @@ no O
 reason O
 to O
 reopen O
-El B-ORG
-Al I-MISC
+El B-LOC
+Al I-LOC
 carqo O
 enquiry O
 . O
@@ -28337,12 +28337,12 @@ the O
 game O
 . O
 
-July B-ORG
+July O
 9 O
 v O
 Minor B-ORG
-Counties I-ORG
-XI B-ORG
+Counties O
+XI O
 
 Police O
 in O
@@ -28378,7 +28378,7 @@ Tunisia B-LOC
 and O
 the O
 Palestinian B-ORG
-Authority I-ORG
+Authority I-LOC
 . O
 
 In O
@@ -28410,7 +28410,7 @@ Diego I-ORG
 Padres I-ORG
 blanked O
 the O
-Expos B-ORG
+Expos O
 6-0 O
 for O
 their O
@@ -28437,7 +28437,7 @@ day O
 's O
 gains O
 as O
-Tokyo O
+Tokyo B-LOC
 stock O
 prices O
 recovered O
@@ -28606,11 +28606,11 @@ action O
 . O
 " O
 
-Hizbollah O
+Hizbollah B-ORG
 ( O
-Party B-ORG
-of O
-God O
+Party I-ORG
+of I-ORG
+God I-ORG
 ) O
 gunmen O
 have O
@@ -28667,13 +28667,13 @@ Baghdad B-LOC
 Division O
 B O
 
-BUCHAREST B-PER
+BUCHAREST O
 1996-08-31 O
 
-CINCINNATI B-PER
+CINCINNATI B-ORG
 1996-08-31 O
 
-MILAN B-LOC
+MILAN O
 1996-08-30 O
 
 SAN B-ORG
@@ -28705,7 +28705,7 @@ breached O
 a O
 shaky O
 United B-LOC
-Nations-sponsored I-LOC
+Nations-sponsored O
 ceasefire O
 . O
 
@@ -28716,7 +28716,7 @@ singles O
 , O
 third O
 round O
-Lisa I-PER
+Lisa B-PER
 Raymond I-PER
 ( O
 U.S. B-LOC
@@ -28730,8 +28730,8 @@ U.S. B-LOC
 6-3 O
 6-2 O
 
-Lead B-ORG
-Underwriter I-ORG
+Lead O
+Underwriter O
 Bear I-ORG
 Stearns I-ORG
 & I-ORG
@@ -28762,7 +28762,7 @@ Assault O
 charges O
 dropped O
 against O
-Surinam B-ORG
+Surinam B-LOC
 ex-rebel O
 . O
 
@@ -28785,7 +28785,7 @@ in O
 the O
 Trofej O
 Beograd O
-96 O
+96 I-MISC
 
 Bowling O
 : O
@@ -28794,10 +28794,10 @@ Waugh I-PER
 5-1-36-1 O
 , O
 Law B-PER
-2-0-23-0 O
+2-0-23-0 I-PER
 , O
 McGrath B-PER
-9.5-0-44-1 O
+9.5-0-44-1 I-PER
 , O
 
 Palestinian B-MISC
@@ -28854,7 +28854,7 @@ lesser O
 sentences O
 . O
 
-Nikkei B-ORG
+Nikkei B-MISC
 latest O
 CRUDE O
 OIL O
@@ -28868,8 +28868,8 @@ a O
 three-run O
 homer O
 off O
-closer B-PER
-Mike I-PER
+closer O
+Mike B-PER
 Fetters I-PER
 with O
 one O
@@ -28904,7 +28904,7 @@ SCORES O
 . O
 
 Somerset B-ORG
-83 O
+83 I-PER
 and O
 174 O
 ( O
@@ -28920,7 +28920,7 @@ Leicestershire B-ORG
 Bowling O
 : O
 Gough B-PER
-8-0-39-3 I-PER
+8-0-39-3 O
 , O
 Mullally B-PER
 6-0-30-1 O
@@ -28932,7 +28932,7 @@ United B-LOC
 States I-LOC
 beat O
 El B-ORG
-Salvador I-LOC
+Salvador O
 3-1 O
 ( O
 halftime O
@@ -28948,7 +28948,7 @@ Friday O
 . O
 
 The O
-Indians B-MISC
+Indians B-ORG
 had O
 their O
 four-game O
@@ -28993,8 +28993,8 @@ Sunday O
 6,739-yard O
 Brown I-PER
 Deer O
-Park B-PER
-Golf O
+Park O
+Golf I-PER
 Course O
 after O
 the O
@@ -29073,7 +29073,7 @@ Hajduk B-ORG
 2 O
 Proleter B-ORG
 ( O
-Z B-LOC
+Z I-ORG
 ) O
 0 O
 
@@ -29104,7 +29104,7 @@ and O
 help O
 sustain O
 the O
-5-1 O
+5-1 B-LOC
 / O
 2-year-old O
 economic O
@@ -29189,7 +29189,7 @@ would O
 include O
 nearly O
 1,000 O
-Air B-ORG
+Air O
 Force O
 personnel O
 in O
@@ -29254,7 +29254,7 @@ surrounding O
 mountains O
 . O
 
-Treorchy O
+Treorchy B-ORG
 17 O
 Newbridge O
 23 O
@@ -29410,9 +29410,9 @@ MANCHESTER B-LOC
 England B-LOC
 1996-08-31 O
 
-Philippine O
+Philippine B-ORG
 president O
-Fidel O
+Fidel B-PER
 Ramos O
 expressed O
 gratitude O
@@ -29427,7 +29427,7 @@ of I-ORG
 Islamic I-ORG
 Conference I-ORG
 ( O
-OIC B-MISC
+OIC B-ORG
 ) O
 on O
 Saturday O
@@ -29452,7 +29452,7 @@ promise O
 was O
 realised O
 when O
-Joubert O
+Joubert B-PER
 made O
 a O
 40-metre O
@@ -29466,7 +29466,7 @@ and O
 although O
 winger O
 Pieter O
-Hendriks I-PER
+Hendriks O
 appeared O
 to O
 knock O
@@ -29478,10 +29478,10 @@ pass O
 , O
 Welsh O
 referee O
-Derek O
+Derek B-PER
 Bevan O
 allowed O
-Van O
+Van B-PER
 der I-PER
 Westhuizen O
 to O
@@ -29539,11 +29539,11 @@ replaced O
 by O
 Shearer B-PER
 's O
-Newcastle B-ORG
+Newcastle O
 team O
 mate O
-Les B-PER
-Ferdinand O
+Les O
+Ferdinand I-PER
 . O
 
 With O
@@ -29598,7 +29598,7 @@ Bristol O
 
 SOCCER O
 - O
-MAURITANIA B-ORG
+MAURITANIA B-LOC
 DRAW O
 WITH O
 BENIN O
@@ -29706,8 +29706,8 @@ Alba B-ORG
 Germany B-LOC
 ) O
 75 O
-Red B-ORG
-Star I-ORG
+Red B-PER
+Star I-PER
 ( O
 Yugoslavia B-LOC
 ) O
@@ -29792,7 +29792,7 @@ LONDON B-LOC
 
 Mazeikyte B-PER
 ( O
-Lithuania O
+Lithuania B-LOC
 ) O
 
 The O
@@ -29864,7 +29864,7 @@ agreement O
 between O
 Israel B-LOC
 and O
-Hizbollah B-LOC
+Hizbollah O
 guerrillas O
 will O
 meet O
@@ -29979,8 +29979,8 @@ Manila O
 to O
 attend O
 an O
-Amnesty O
-International B-ORG
+Amnesty B-ORG
+International I-ORG
 conference O
 on O
 human O
@@ -29989,7 +29989,7 @@ in O
 China B-LOC
 . O
 
-FTSE O
+FTSE B-LOC
 close O
 $ O
 21.25 O
@@ -30087,7 +30087,7 @@ closed O
 on O
 Monday O
 for O
-Labour B-MISC
+Labour O
 Day I-MISC
 . O
 
@@ -30245,7 +30245,7 @@ his O
 major-league O
 leading O
 45th O
-homer O
+homer I-PER
 and O
 drove O
 in O
@@ -30257,7 +30257,7 @@ Athetlics O
 blanked O
 the O
 Boston B-ORG
-Red B-ORG
+Red I-ORG
 Sox I-ORG
 7-0 O
 . O
@@ -30347,9 +30347,9 @@ said O
 Sloboda B-ORG
 4 O
 Mladost B-ORG
-( O
-BJ B-LOC
-) O
+( I-ORG
+BJ I-ORG
+) I-ORG
 0 O
 
 I O
@@ -30428,7 +30428,7 @@ Berwick B-ORG
 14 O
 0 O
 
-McGwire B-PER
+McGwire O
 singled O
 home O
 a O
@@ -30451,7 +30451,7 @@ the O
 seventh O
 . O
 
-Jakarta B-PER
+Jakarta B-LOC
 served O
 as O
 the O
@@ -30633,7 +30633,7 @@ $ O
 billion O
 . O
 
-Wang B-PER
+Wang B-ORG
 's O
 family O
 and O
@@ -30680,7 +30680,7 @@ Germany B-LOC
 13.36 O
 
 Mariano O
-Rivera O
+Rivera I-PER
 pitched O
 a O
 scoreless O
@@ -30707,7 +30707,7 @@ Saturday O
 
 Romania B-LOC
 beat O
-Lithuania B-PER
+Lithuania B-ORG
 3-0 O
 ( O
 halftime O
@@ -30734,7 +30734,7 @@ kicked O
 a O
 penalty O
 before O
-All O
+All B-ORG
 Black O
 hooker O
 Sean B-PER
@@ -30785,17 +30785,17 @@ two O
 strokes O
 ahead O
 of O
-Bob B-MISC
+Bob B-PER
 Estes O
 and O
 three O
 up O
 on O
-Billy B-PER
+Billy B-LOC
 Andrade O
 , O
 Duffy O
-Waldorf O
+Waldorf B-ORG
 and O
 Jesper O
 Parnevik O
@@ -31166,8 +31166,8 @@ century O
 2009 O
 95,000 O
 
-Middlesex O
-199 O
+Middlesex B-PER
+199 I-PER
 and O
 426 O
 , O
@@ -31191,7 +31191,7 @@ Jonathan B-PER
 Lomas I-PER
 181,005 O
 
-Karlsruhe O
+Karlsruhe B-PER
 won O
 the O
 August O
@@ -31243,7 +31243,7 @@ era O
 of O
 strife O
 in O
-Philippine B-LOC
+Philippine O
 history O
 . O
 " O
@@ -31404,7 +31404,7 @@ Iraqi B-MISC
 opposition O
 group O
 in O
-exile O
+exile B-LOC
 said O
 on O
 Saturday O
@@ -31430,7 +31430,7 @@ northern O
 Iraq B-LOC
 . O
 
-CAPE B-ORG
+CAPE B-PER
 TOWN O
 1996-08-31 O
 
@@ -31548,7 +31548,7 @@ sent O
 a O
 message O
 to O
-Saddam O
+Saddam B-LOC
 on O
 August O
 22 O
@@ -31601,7 +31601,7 @@ conspiracy O
 Mishi O
 Saran O
 
-Silver O
+Silver B-PER
 , O
 basis O
 the O
@@ -31664,7 +31664,7 @@ Fifth O
 place O
 : O
 
-Magna B-LOC
+Magna B-PER
 's O
 traditional O
 strength O
@@ -31677,7 +31677,7 @@ door O
 panels O
 and O
 other O
-interior B-ORG
+interior O
 components O
 . O
 
@@ -31708,7 +31708,7 @@ Wang O
 Donghai O
 , O
 the O
-New B-LOC
+New B-ORG
 York-based I-LOC
 pressure O
 group O
@@ -31733,13 +31733,13 @@ Habib O
 Boulares O
 arrives O
 in O
-Tripoli B-LOC
+Tripoli O
 to O
 represent O
 President O
 Zine B-PER
 al-Abidine I-PER
-Ben I-PER
+Ben O
 Ali I-PER
 at O
 the O
@@ -31775,9 +31775,9 @@ performance O
 . O
 
 Keith O
-O'Neill I-PER
+O'Neill O
 of O
-Norwich B-LOC
+Norwich O
 City I-LOC
 joins O
 Niall O
@@ -31809,8 +31809,8 @@ September O
 Federal B-ORG
 Reserve I-ORG
 governor O
-Lawrence O
-Lindsey I-PER
+Lawrence B-PER
+Lindsey O
 , O
 speaking O
 on O
@@ -31818,7 +31818,7 @@ U.S. B-LOC
 cable O
 television O
 network O
-CNBC I-PER
+CNBC O
 , O
 said O
 the O
@@ -31876,9 +31876,9 @@ place O
 play-off O
 in O
 the O
-Trofej B-LOC
-Beograd B-LOC
-96 I-MISC
+Trofej O
+Beograd O
+96 O
 international O
 basketball O
 tournament O
@@ -31923,8 +31923,8 @@ HOUSTON B-ORG
 metres O
 ) O
 at O
-The B-LOC
-Curragh I-LOC
+The O
+Curragh O
 on O
 Saturday O
 : O
@@ -32005,10 +32005,10 @@ immigrants O
 home O
 . O
 
-St. B-ORG
+St. B-LOC
 Louis-based O
-Mercantile B-ORG
-Bancorp I-ORG
+Mercantile O
+Bancorp B-PER
 Inc. I-ORG
 , O
 a O
@@ -32020,7 +32020,7 @@ $ O
 18.04 O
 billion O
 in O
-assets O
+assets B-LOC
 , O
 was O
 seen O
@@ -32036,7 +32036,7 @@ franchise O
 in O
 size O
 after O
-Boatmen O
+Boatmen B-PER
 's O
 . O
 
@@ -32122,7 +32122,7 @@ of O
 the O
 match O
 , O
-Tarango B-PER
+Tarango O
 blew O
 sarcastic O
 kisses O
@@ -32277,7 +32277,7 @@ surrounding O
 tissues O
 . O
 
-Trevor B-PER
+Trevor O
 Holland I-PER
 , O
 a O
@@ -32343,9 +32343,9 @@ was O
 agreed O
 with O
 Boris B-PER
-Nikolayevich O
+Nikolayevich I-PER
 ( O
-Yeltsin B-PER
+Yeltsin B-MISC
 ) O
 yesterday O
 . O
@@ -32363,7 +32363,7 @@ on O
 Saturday O
 : O
 
-GOLF O
+GOLF B-LOC
 - O
 LEADING O
 SCORES O
@@ -32398,7 +32398,7 @@ boards O
 read O
 : O
 " O
-Air B-MISC
+Air O
 Bag O
 Safety O
 : O
@@ -32435,18 +32435,18 @@ Stuart B-PER
 Law I-PER
 , O
 Glenn B-PER
-McGrath O
+McGrath I-PER
 , O
-Ricky O
+Ricky B-PER
 
-Brokers B-PER
+Brokers O
 said O
 blue O
 chips O
 like O
 IDLC O
 , O
-Bangladesh B-PER
+Bangladesh B-LOC
 Lamps O
 , O
 Chittagong O
@@ -32521,12 +32521,12 @@ big O
 players O
 . O
 
-Three B-MISC
+Three O
 African B-MISC
 leaders O
 -- O
 from O
-Niger O
+Niger B-LOC
 , O
 Guinea B-LOC
 and O
@@ -32559,7 +32559,7 @@ Gaddafi O
 , O
 deposed O
 King O
-Mohammed O
+Mohammed B-LOC
 Idris O
 . O
 
@@ -32585,7 +32585,7 @@ ANGELES I-ORG
 The O
 radio O
 urged O
-Arabs O
+Arabs B-MISC
 to O
 unify O
 their O
@@ -32605,7 +32605,7 @@ CRICKET O
 - O
 ESSEX B-LOC
 AND O
-KENT O
+KENT B-LOC
 MADE O
 TO O
 SWEAT O
@@ -32687,8 +32687,8 @@ DeFreitas I-PER
 4-70 O
 ) O
 , O
-Derbyshire O
-471 I-PER
+Derbyshire B-PER
+471 O
 and O
 71-1 O
 . O
@@ -32756,7 +32756,7 @@ world O
 record O
 ) O
 beat O
-Russia B-PER
+Russia B-LOC
 ( O
 Anton B-PER
 Chantyr I-PER
@@ -32780,7 +32780,7 @@ three O
 minutes O
 later O
 when O
-Degryse O
+Degryse B-PER
 put O
 the O
 ball O
@@ -32806,7 +32806,7 @@ ball O
 past O
 goalkeeper O
 Rustu O
-Recber I-PER
+Recber O
 from O
 the O
 right O
@@ -32981,17 +32981,17 @@ Sales O
 13.00 O
 11.27 O
 
-July B-ORG
+July O
 12 O
 v O
 Scotland B-LOC
 
-Gascoigne O
+Gascoigne B-PER
 , O
 whose O
 compulsive O
 practical O
-joking O
+joking I-PER
 has O
 landed O
 him O
@@ -33005,7 +33005,7 @@ tugged O
 down O
 the O
 Inter O
-Milan I-LOC
+Milan B-ORG
 player O
 's O
 trousers O
@@ -33046,7 +33046,7 @@ polls O
 The O
 American B-ORG
 Stock I-ORG
-Exchange I-MISC
+Exchange I-ORG
 index O
 was O
 down O
@@ -33071,8 +33071,8 @@ surplus O
 to O
 England B-LOC
 's O
-one-day O
-requirements I-PER
+one-day B-PER
+requirements O
 , O
 struck O
 158 O
@@ -33109,7 +33109,7 @@ City I-ORG
 Abu B-PER
 Ammar I-PER
 ( O
-Arafat B-MISC
+Arafat B-LOC
 ) O
 is O
 right O
@@ -33180,7 +33180,7 @@ September O
 ) O
 
 THE B-ORG
-HAGUE O
+HAGUE I-ORG
 1996-08-30 O
 
 overs O
@@ -33313,7 +33313,7 @@ Iran B-LOC
 's O
 intelligence O
 minister O
-Ali B-LOC
+Ali O
 Fallahiyan O
 of O
 ordering O
@@ -33419,7 +33419,7 @@ Beograd I-ORG
 
 1533 O
 - O
-Queen O
+Queen B-MISC
 Elizabeth O
 I O
 born O
@@ -33523,7 +33523,7 @@ over O
 census O
 . O
 
-CHISINAU B-LOC
+CHISINAU O
 , O
 Moldova B-LOC
 1996-08-31 O
@@ -33542,7 +33542,7 @@ two O
 brusing O
 lefts O
 to O
-Miller B-LOC
+Miller B-PER
 's O
 head O
 in O
@@ -33576,8 +33576,8 @@ a O
 Thai B-MISC
 farmer O
 at O
-Changi O
-Prison O
+Changi B-LOC
+Prison I-LOC
 on O
 Friday O
 for O
@@ -33645,7 +33645,7 @@ allies O
 " O
 said O
 the O
-Foreign B-ORG
+Foreign O
 Office I-ORG
 spokesman O
 . O
@@ -33666,7 +33666,7 @@ assertion O
 in O
 Europe B-LOC
 in O
-politics O
+politics B-LOC
 and O
 the O
 arts O
@@ -33717,7 +33717,7 @@ CHICAGO B-ORG
 5 O
 1/2 O
 
-Cunningham B-PER
+Cunningham O
 played O
 his O
 entire O
@@ -33725,7 +33725,7 @@ entire O
 career O
 with O
 the O
-Philadelphia B-ORG
+Philadelphia B-LOC
 Eagles O
 . O
 
@@ -33744,7 +33744,7 @@ a O
 news O
 conference O
 in O
-Pretoria O
+Pretoria B-LOC
 self-determination O
 for O
 Afrikaners O
@@ -33792,7 +33792,7 @@ ex-England O
 fast O
 bowler O
 Martin B-PER
-McCague O
+McCague I-PER
 took O
 four O
 for O
@@ -33840,8 +33840,8 @@ Canada B-LOC
 ) O
 36.307 O
 
-Pierre B-PER
-Belec O
+Pierre O
+Belec I-PER
 
 Armenia B-LOC
 and O
@@ -33861,8 +33861,8 @@ on O
 Saturday O
 . O
 
-El B-PER
-Salvador I-PER
+El B-ORG
+Salvador I-ORG
 - O
 Luis B-PER
 Lazo I-PER
@@ -33870,7 +33870,7 @@ Lazo I-PER
 61st O
 ) O
 
-Waugh B-LOC
+Waugh B-PER
 . O
 
 I O
@@ -33893,9 +33893,9 @@ the O
 self-styled O
 Popular B-ORG
 Revolutionary I-ORG
-Army I-MISC
+Army I-ORG
 ( O
-EPR B-MISC
+EPR B-ORG
 ) O
 launched O
 coordinated O
@@ -34058,7 +34058,7 @@ Cuba B-LOC
 ) O
 13.52 O
 
-Cubs O
+Cubs B-ORG
 shortstop O
 Jose B-PER
 Hernandez I-PER
@@ -34128,7 +34128,7 @@ in O
 the O
 fast-growing O
 Far O
-Eastern I-MISC
+Eastern B-ORG
 developing O
 markets O
 with O
@@ -34163,7 +34163,7 @@ week O
 . O
 
 May O
-18 O
+18 B-ORG
 v O
 Worcestershire B-ORG
 
@@ -34314,7 +34314,7 @@ printed O
 packaging O
 company O
 Cofinec B-ORG
-S.A. I-ORG
+S.A. O
 plunged O
 sharply O
 on O
@@ -34384,7 +34384,7 @@ a O
 275 O
 million O
 Norwegian B-MISC
-crown I-MISC
+crown O
 bond O
 , O
 which O
@@ -34396,8 +34396,8 @@ European B-MISC
 institution O
 . O
 
-Cofinec O
-CEO B-PER
+Cofinec B-ORG
+CEO O
 Stephen B-PER
 Frater I-PER
 told O
@@ -34925,7 +34925,7 @@ well-known O
 . O
 " O
 
-Given B-PER
+Given B-ORG
 , O
 Breen B-PER
 , O
@@ -34933,11 +34933,11 @@ Staunton B-PER
 , O
 Irwin B-PER
 , O
-McAteer O
+McAteer B-PER
 , O
 Harte O
 , O
-McLoughlin O
+McLoughlin B-PER
 , O
 Houghton O
 , O
@@ -34948,7 +34948,7 @@ Quinn O
 O'Neill O
 . O
 
-AMSTERDAM B-ORG
+AMSTERDAM B-LOC
 1996-08-31 O
 
 PRESALE O
@@ -35009,7 +35009,7 @@ Venice O
 festival O
 . O
 
-SARAJEVO B-LOC
+SARAJEVO O
 1996-08-30 O
 
 It O
@@ -35019,7 +35019,7 @@ Belgium B-LOC
 first O
 victory O
 under O
-Van B-PER
+Van O
 Moer I-PER
 after O
 two O
@@ -35065,7 +35065,7 @@ Oliveira I-PER
 Mladost B-ORG
 ( I-ORG
 L I-ORG
-) O
+) I-ORG
 4 O
 2 O
 1 O
@@ -35207,7 +35207,7 @@ message O
 " O
 
 Add O
-men I-PER
+men O
 's O
 singles O
 , O
@@ -35254,7 +35254,7 @@ Canada B-LOC
 - O
 Aunger B-PER
 ( O
-41st B-PER
+41st O
 min I-PER
 , O
 pen O
@@ -35501,7 +35501,7 @@ Freddy B-PER
 Pinas I-PER
 , O
 a O
-Surinamese-born O
+Surinamese-born B-MISC
 visitor O
 from O
 the O
@@ -35738,7 +35738,7 @@ great O
 start O
 . O
 
-Best O
+Best B-ORG
 known O
 for O
 appearances O
@@ -35751,9 +35751,9 @@ Alex B-LOC
 " O
 , O
 " O
-Lawrence O
+Lawrence B-PER
 of O
-Arabia B-LOC
+Arabia I-MISC
 " O
 and O
 , O
@@ -35811,13 +35811,13 @@ allies O
 . O
 
 Nasdaq B-MISC
-Stock I-ORG
+Stock O
 symbol O
 HMGT O
 
 Soccer O
 - O
-McCarthy B-PER
+McCarthy B-ORG
 names O
 team O
 to O
@@ -35844,7 +35844,7 @@ Tries O
 Sean B-PER
 Fitzpatrick I-PER
 , O
-Walter O
+Walter B-PER
 Little I-PER
 , O
 Justin B-PER
@@ -35854,7 +35854,7 @@ Marshall I-PER
 Cuban B-MISC
 novelist O
 Jose B-PER
-Soler I-PER
+Soler O
 Puig O
 dies O
 at O
@@ -35948,7 +35948,7 @@ closely O
 
 Distances O
 : O
-Three O
+Three B-PER
 lengths O
 , O
 two-and-a-half O
@@ -35967,8 +35967,8 @@ saved O
 the O
 blushes O
 of O
-Real O
-Madrid I-PER
+Real B-ORG
+Madrid I-ORG
 coach O
 Fabio B-PER
 Capello I-PER
@@ -35993,10 +35993,10 @@ Saturday O
 Andersson B-PER
 1:34 O
 
-Israel B-ORG
+Israel B-LOC
 2 O
 , O
-Bulgaria B-ORG
+Bulgaria B-LOC
 0 O
 ( O
 halftime O
@@ -36138,7 +36138,7 @@ more O
 temporary O
 than O
 Federal B-ORG
-Reserve I-ORG
+Reserve O
 policy-makers O
 had O
 wanted O
@@ -36232,14 +36232,14 @@ of O
 the O
 Match O
 : O
-Aravinda B-LOC
-de I-LOC
-Silva I-PER
+Aravinda O
+de I-PER
+Silva I-ORG
 
 Rad B-ORG
-( O
+( I-ORG
 B I-ORG
-) O
+) I-ORG
 4 O
 1 O
 1 O
@@ -36435,8 +36435,8 @@ LOUIS I-ORG
 1/2 O
 
 Former O
-South B-MISC
-Carolina O
+South B-LOC
+Carolina I-LOC
 Gov O
 . O
 
@@ -36445,8 +36445,8 @@ also O
 got O
 the O
 House B-ORG
-of O
-Lords O
+of I-ORG
+Lords I-ORG
 to O
 pass O
 his O
@@ -36469,7 +36469,7 @@ of O
 rebels O
 appeared O
 in O
-jeeps B-LOC
+jeeps O
 and O
 cars O
 , O
@@ -36491,7 +36491,7 @@ them O
 Tripoli-based O
 diplomats O
 and O
-exiled O
+exiled B-PER
 opponents O
 said O
 Gaddafi B-PER
@@ -36504,7 +36504,7 @@ rebel O
 strongholds O
 in O
 the O
-mountainous O
+mountainous B-LOC
 Jebel O
 al-Akhdar O
 region O
@@ -36525,7 +36525,7 @@ partisan O
 seized O
 by O
 the O
-South B-MISC
+South B-LOC
 during O
 the O
 war O
@@ -36579,9 +36579,9 @@ a O
 mistake O
 by O
 midfielder O
-Joaquin B-PER
+Joaquin O
 del I-PER
-Olmo O
+Olmo I-PER
 . O
 
 " O
@@ -36595,8 +36595,8 @@ from O
 ( O
 Patriotic B-ORG
 Union I-ORG
-of O
-Kurdistan O
+of I-ORG
+Kurdistan I-ORG
 chief O
 ) O
 Jalal O
@@ -36616,7 +36616,7 @@ Iraqi B-ORG
 News I-ORG
 Agency I-ORG
 ( O
-INA B-MISC
+INA B-ORG
 ) O
 . O
 
@@ -36634,7 +36634,7 @@ both O
 ends O
 , O
 and O
-Donato B-PER
+Donato O
 , O
 who O
 had O
@@ -36769,7 +36769,7 @@ in O
 Paris B-LOC
 settled O
 at O
-123.14 B-LOC
+123.14 O
 , O
 up O
 0.04 O
@@ -36830,7 +36830,7 @@ out O
 LONDON B-LOC
 1996-08-31 O
 
-COLOMBO B-LOC
+COLOMBO O
 1996-08-30 O
 
 DUBLIN O
@@ -36862,7 +36862,7 @@ overs O
 cricket O
 international O
 at O
-Edgbaston B-LOC
+Edgbaston O
 on O
 Saturday O
 . O
@@ -36870,7 +36870,7 @@ Saturday O
 Neither O
 Lebed B-PER
 nor O
-Maskhadov O
+Maskhadov B-PER
 made O
 any O
 statement O
@@ -36968,7 +36968,7 @@ Sweden B-LOC
 ) O
 12.74 O
 
-Lithuania O
+Lithuania B-ORG
 - O
 Danius B-PER
 Gleveckas I-PER
@@ -37034,7 +37034,7 @@ ended O
 up O
 bidding O
 for O
-Ruch B-LOC
+Ruch O
 , O
 in O
 which O
@@ -37107,7 +37107,7 @@ Bromwich I-ORG
 3 O
 2 O
 
-DETROIT B-LOC
+DETROIT B-ORG
 1996-08-31 O
 
 " O
@@ -37182,7 +37182,7 @@ spokesman O
 added O
 . O
 
-Kent B-PER
+Kent B-ORG
 will O
 also O
 need O
@@ -37192,7 +37192,7 @@ their O
 nerve O
 against O
 struggling O
-Nottinghamshire B-ORG
+Nottinghamshire O
 who O
 will O
 enter O
@@ -37318,7 +37318,7 @@ position O
 . O
 " O
 
-Mamatuyev B-PER
+Mamatuyev O
 joked O
 that O
 his O
@@ -37349,13 +37349,13 @@ Allahu O
 Akhbar O
 " O
 ( O
-God B-MISC
+God B-PER
 is O
 Greatest O
 ) O
 and O
 " O
-Freedom B-MISC
+Freedom O
 for O
 Chechnya B-LOC
 ! O
@@ -37393,7 +37393,7 @@ holes O
 
 TENNIS O
 - O
-TARANGO B-PER
+TARANGO O
 , O
 O'BRIEN O
 SPRING O
@@ -37427,7 +37427,7 @@ lacked O
 ideas O
 . O
 
-Department B-ORG
+Department I-ORG
 officials O
 said O
 July O
@@ -37573,7 +37573,7 @@ CUSIP O
 
 It O
 was O
-Incaviglia B-PER
+Incaviglia O
 's O
 sixth O
 grand O
@@ -37667,7 +37667,7 @@ unsporting O
 conduct O
 and O
 captain O
-Guy O
+Guy B-PER
 Hellers O
 banned O
 for O
@@ -37678,7 +37678,7 @@ games O
 By O
 the O
 close O
-Yorkshire O
+Yorkshire B-ORG
 had O
 turned O
 that O
@@ -37846,7 +37846,7 @@ military O
 regime O
 of O
 Desi O
-Bouterse I-PER
+Bouterse O
 in O
 the O
 late O
@@ -37946,7 +37946,7 @@ the O
 signing O
 . O
 
-GOLF B-LOC
+GOLF O
 - O
 LEADING O
 MONEY O
@@ -38078,7 +38078,7 @@ is O
 seeking O
 his O
 first O
-PGA O
+PGA B-MISC
 Tour I-MISC
 victory O
 , O
@@ -38132,9 +38132,9 @@ Zemun B-ORG
 3 O
 5 O
 
-Major O
+Major B-MISC
 league O
-ERA B-MISC
+ERA B-ORG
 leader O
 Kevin B-PER
 Brown I-PER
@@ -38143,7 +38143,7 @@ an O
 eight-hitter O
 and O
 Devon B-PER
-White I-PER
+White B-PER
 's O
 RBI B-MISC
 double I-PER
@@ -38206,7 +38206,7 @@ was O
 the O
 plum O
 of O
-Missouri O
+Missouri B-LOC
 and O
 was O
 the O
@@ -38295,7 +38295,7 @@ statement O
 . O
 
 Whenever O
-everyone O
+everyone I-PER
 's O
 making O
 birdies O
@@ -38351,7 +38351,7 @@ he O
 was O
 biased O
 toward O
-Zelimkhan O
+Zelimkhan B-PER
 Yandarbiyev I-PER
 , O
 president O
@@ -38374,8 +38374,8 @@ a O
 link O
 with O
 the O
-Marc B-MISC
-Dutroux I-PER
+Marc B-ORG
+Dutroux I-LOC
 case O
 , O
 the O
@@ -38437,7 +38437,7 @@ the O
 theory O
 that O
 the O
-Federal B-LOC
+Federal B-ORG
 Reserve I-ORG
 would O
 tighten O
@@ -38445,7 +38445,7 @@ rates O
 before O
 the O
 next O
-Federal B-ORG
+Federal B-MISC
 Open I-MISC
 Market O
 Committee O
@@ -38473,7 +38473,7 @@ the O
 season O
 . O
 
-Gaddafi O
+Gaddafi B-PER
 has O
 dismissed O
 any O
@@ -38612,7 +38612,7 @@ a O
 man O
 dressed O
 in O
-green B-LOC
+green O
 and O
 carrying O
 a O
@@ -38639,7 +38639,7 @@ impose O
 peace O
 . O
 
-BAGHDAD O
+BAGHDAD B-PER
 1996-08-31 O
 
 " O
@@ -38760,7 +38760,7 @@ I O
 have O
 over O
 ' O
-Michael B-MISC
+Michael B-PER
 Collins O
 ' O
 , O
@@ -38973,7 +38973,7 @@ ruins O
 DUBLIN O
 1996-08-31 O
 
-Miller B-PER
+Miller O
 raised O
 the O
 pace O
@@ -39114,7 +39114,7 @@ meeting O
 of O
 the O
 Palestinian B-ORG
-self-rule I-ORG
+self-rule O
 Authority I-ORG
 's O
 cabinet O
@@ -39127,7 +39127,7 @@ Saturday O
 Interfax B-ORG
 said O
 Judge O
-Olga O
+Olga B-PER
 Lavrentyeva I-PER
 , O
 28 O
@@ -39203,7 +39203,7 @@ is O
 acceptable O
 , O
 " O
-Scottish B-MISC
+Scottish B-ORG
 coach O
 Craig B-PER
 Brown I-PER
@@ -39222,9 +39222,9 @@ of O
 Boatmen O
 's O
 Bancshares O
-Inc. I-ORG
+Inc. O
 by O
-NationsBank O
+NationsBank B-ORG
 Corp. I-ORG
 could O
 spark O
@@ -39481,7 +39481,7 @@ decided O
 not O
 to O
 use O
-Silva I-PER
+Silva B-PER
 , O
 who O
 had O
@@ -39538,7 +39538,7 @@ German B-MISC
 cultural O
 attache O
 in O
-Tehran B-LOC
+Tehran O
 a O
 month O
 ago O
@@ -39636,7 +39636,7 @@ one O
 
 Incomes O
 from O
-wages B-LOC
+wages O
 , O
 salaries O
 and O
@@ -39679,7 +39679,7 @@ the O
 case O
 of O
 Louis B-LOC
-Farrakhan I-PER
+Farrakhan I-LOC
 , O
 the O
 U.S. B-LOC
@@ -39695,7 +39695,7 @@ human O
 rights O
 prize O
 by O
-Libya B-LOC
+Libya B-ORG
 . O
 
 Leading O
@@ -39741,7 +39741,7 @@ PITTSBURGH B-ORG
 .421 O
 15 O
 
-Bryan O
+Bryan B-ORG
 Gorman O
 
 25 O
@@ -39807,7 +39807,7 @@ holy O
 to O
 Moslems B-LOC
 , O
-Arabs B-PER
+Arabs B-MISC
 and O
 Jews O
 to O
@@ -39924,8 +39924,8 @@ Schepens I-PER
 ( O
 15 O
 - O
-Nico B-PER
-Van I-PER
+Nico O
+Van B-PER
 Kerckhoven I-PER
 , O
 81st O
@@ -39965,7 +39965,7 @@ Oliveira I-PER
 ( O
 18 O
 - O
-Gilles B-PER
+Gilles O
 De I-PER
 Bilde I-PER
 , O
@@ -40117,9 +40117,9 @@ consortium O
 including O
 the O
 Bank B-ORG
-Rozwoju I-MISC
+Rozwoju I-ORG
 Exportu I-ORG
-SA I-MISC
+SA I-ORG
 ( O
 BRE O
 ) O
@@ -40235,7 +40235,7 @@ soccer O
 qualifier O
 on O
 
-Jones B-PER
+Jones B-ORG
 stock O
 closed O
 down O
@@ -40275,8 +40275,8 @@ the O
 former O
 Blackburn B-ORG
 and O
-Southampton O
-skipper I-PER
+Southampton B-PER
+skipper O
 should O
 not O
 make O
@@ -40291,10 +40291,10 @@ ROCHESTER B-LOC
 N.H. O
 1996-08-30 O
 
-Melrose B-ORG
+Melrose O
 107 O
-Stirling B-ORG
-County I-ORG
+Stirling O
+County O
 10 O
 
 Doncaster B-ORG
@@ -40330,8 +40330,8 @@ devastating O
 sinker O
 , O
 " O
-observed O
-Reds B-ORG
+observed B-ORG
+Reds I-ORG
 manager O
 Ray B-PER
 Knight I-PER
@@ -40350,7 +40350,7 @@ pair O
 from O
 school O
 in O
-Velten O
+Velten B-LOC
 near O
 Berlin B-LOC
 on O
@@ -40436,7 +40436,7 @@ cause O
 " O
 state-run O
 Damascus B-ORG
-Radio O
+Radio I-ORG
 said O
 in O
 a O
@@ -40464,7 +40464,7 @@ substitutions O
 . O
 
 Nolan O
-Henke I-PER
+Henke O
 fired O
 a O
 nine-under-par O
@@ -40483,13 +40483,13 @@ the O
 $ O
 1.2 O
 million O
-Greater B-MISC
-Milwaukee I-MISC
+Greater O
+Milwaukee B-MISC
 Open I-MISC
 Thursday O
 as O
 20-year-old O
-Tiger B-ORG
+Tiger O
 Woods O
 shot O
 67 O
@@ -40644,7 +40644,7 @@ restricted O
 from O
 entering O
 the O
-continental B-LOC
+continental O
 United B-LOC
 States I-LOC
 -- O
@@ -40701,8 +40701,8 @@ Lama I-PER
 ; O
 2 O
 - O
-Lilian O
-Thuram I-PER
+Lilian B-PER
+Thuram O
 ( O
 14 O
 - O
@@ -40718,19 +40718,19 @@ Blanc I-PER
 , O
 8 O
 - O
-Marcel O
+Marcel B-PER
 Desailly I-PER
 ( O
 12 O
 - O
 Franck O
-Leboeuf O
+Leboeuf I-PER
 46th O
 ) O
 , O
 3 O
 - O
-Bixente O
+Bixente B-PER
 Lizarazu I-PER
 ; O
 4 O
@@ -40740,12 +40740,12 @@ Karembeu I-PER
 , O
 7 O
 - O
-Didier O
+Didier B-PER
 Deschamps I-PER
 , O
 10 O
 - O
-Youri O
+Youri B-PER
 Djorkaeff I-PER
 , O
 6 O
@@ -40756,19 +40756,19 @@ Pedros O
 13 O
 - O
 Robert B-PER
-Pires I-MISC
+Pires I-PER
 46th O
 ) O
 ; O
 9 O
 - O
-Nicolas O
-Ouedec I-PER
+Nicolas B-PER
+Ouedec O
 ( O
 17 O
 - O
-Florian B-MISC
-Maurice I-MISC
+Florian O
+Maurice O
 64th O
 ) O
 , O
@@ -40780,7 +40780,7 @@ Loko I-PER
 15 O
 - O
 Zinedine O
-Zidane O
+Zidane I-PER
 46th O
 ) O
 
@@ -40816,7 +40816,7 @@ Republic B-LOC
 ) O
 6-2 O
 
-Fernandez B-ORG
+Fernandez B-PER
 was O
 forced O
 to O
@@ -40869,7 +40869,7 @@ to O
 Fed B-MISC
 Cup I-MISC
 veteran O
-Mary B-MISC
+Mary B-PER
 Joe I-PER
 Fernandez O
 have O
@@ -40916,8 +40916,8 @@ end O
 of O
 the O
 1991 O
-Gulf B-LOC
-War I-LOC
+Gulf B-MISC
+War O
 on O
 the O
 suggestion O
@@ -40984,7 +40984,7 @@ ground O
 " O
 among O
 American B-MISC
-Catholics I-MISC
+Catholics O
 . O
 
 OSCE B-ORG
@@ -41042,14 +41042,14 @@ Tour I-MISC
 after O
 the O
 British B-MISC
-Masters I-MISC
+Masters I-ORG
 won O
 by O
 Robert B-PER
-Allenby I-PER
+Allenby I-ORG
 on O
 
-Leeds O
+Leeds B-ORG
 ) O
 
 " O
@@ -41107,7 +41107,7 @@ said O
 . O
 
 Aiza O
-Dudayeva O
+Dudayeva I-PER
 , O
 with O
 her O
@@ -41125,11 +41125,11 @@ optimism O
 
 TENNIS O
 - O
-DRAW B-PER
+DRAW O
 FOR O
 1997 O
 FED O
-CUP I-MISC
+CUP O
 WOMEN O
 'S O
 TEAM O
@@ -41207,8 +41207,8 @@ The B-LOC
 Oval I-LOC
 ) O
 : O
-Warwickshire B-PER
-195 I-PER
+Warwickshire B-ORG
+195 O
 , O
 Surrey B-ORG
 429-7 O
@@ -41399,7 +41399,7 @@ eight O
 tests O
 . O
 
-Tajikistan B-LOC
+Tajikistan B-ORG
 , O
 which O
 borders O
@@ -41420,30 +41420,30 @@ a O
 civil O
 war O
 between O
-communists B-LOC
+communists O
 and O
 a O
 frail O
 coalition O
 of O
-Islamic B-MISC
+Islamic B-LOC
 and O
 liberal O
 groups O
 . O
 
-Gonzalo B-PER
+Gonzalo O
 Montoya I-PER
 , O
 a O
 police O
 commander O
 in O
-Tacambaro B-LOC
+Tacambaro O
 , O
 told O
 Radio B-ORG
-Red O
+Red I-ORG
 the O
 group O
 was O
@@ -41492,7 +41492,7 @@ Jayasuriya B-PER
 , O
 Chandana O
 
-NEW B-LOC
+NEW B-ORG
 YORK I-LOC
 1996-08-31 O
 
@@ -41568,7 +41568,7 @@ Fourth O
 test O
 ( O
 at O
-Headingley O
+Headingley B-LOC
 ) O
 
 " O
@@ -41597,7 +41597,7 @@ said O
 . O
 " O
 
-MOSCOW B-LOC
+MOSCOW O
 1996-08-30 O
 
 Wages O
@@ -41641,7 +41641,7 @@ cards O
 , O
 captain O
 Gary B-PER
-McAllister O
+McAllister I-PER
 for O
 bringing O
 down O
@@ -41653,7 +41653,7 @@ for O
 arguing O
 against O
 the O
-referee B-LOC
+referee O
 's O
 decision O
 . O
@@ -41681,7 +41681,7 @@ on O
 Saturday O
 . O
 
-Jesper O
+Jesper B-PER
 Parnevik O
 of O
 Sweden B-LOC
@@ -41706,8 +41706,8 @@ the O
 $ O
 1.2 O
 million O
-Greater B-MISC
-Milwaukee I-MISC
+Greater O
+Milwaukee B-MISC
 Open I-MISC
 . O
 
@@ -41790,7 +41790,7 @@ Saturday O
 the O
 fighting O
 in O
-Arbil B-LOC
+Arbil O
 in O
 northern O
 Iraq B-LOC
@@ -41824,7 +41824,7 @@ Star I-ORG
 3 O
 12 O
 
-Lithuania O
+Lithuania B-ORG
 - O
 Danius B-PER
 Gleveckas I-PER
@@ -41877,7 +41877,7 @@ on O
 France B-LOC
 to O
 respect O
-Tunisian B-ORG
+Tunisian O
 immigrants O
 ' O
 dignity O
@@ -41913,8 +41913,8 @@ Zinedine O
 Zidane O
 . O
 
-Glenn O
-Somerville I-PER
+Glenn B-PER
+Somerville O
 
 " O
 I O
@@ -41939,7 +41939,7 @@ the O
 first O
 game O
 , O
-Ryne O
+Ryne B-PER
 Sandberg I-PER
 snapped O
 an O
@@ -42034,8 +42034,8 @@ Alba B-ORG
 Germany B-LOC
 ) O
 75 O
-Red B-ORG
-Star I-ORG
+Red B-PER
+Star I-PER
 ( O
 Yugoslavia B-LOC
 ) O
@@ -42093,7 +42093,7 @@ Martinez I-PER
 his O
 23rd O
 for O
-Seattle B-ORG
+Seattle B-LOC
 . O
 
 A O
@@ -42133,7 +42133,7 @@ second O
 half O
 . O
 
-ST. B-ORG
+ST. O
 LOUIS I-ORG
 1996-08-30 O
 
@@ -42150,7 +42150,7 @@ China B-LOC
 . O
 
 Top O
-Belarus B-LOC
+Belarus O
 politician O
 blasts O
 president O
@@ -42292,7 +42292,7 @@ of O
 January O
 " O
 ( O
-1963 B-MISC
+1963 O
 ) O
 , O
 " O
@@ -42300,12 +42300,12 @@ The O
 Collapse O
 " O
 ( O
-1964 B-MISC
+1964 O
 ) O
 , O
 " O
-Sleeping B-MISC
-Bread I-MISC
+Sleeping B-PER
+Bread O
 " O
 ( O
 1975 O
@@ -42314,20 +42314,20 @@ Bread I-MISC
 " O
 The O
 Decaying O
-Mansion O
+Mansion I-MISC
 " O
 ( O
-1977 B-MISC
+1977 O
 ) O
 and O
 " O
 A O
-World O
+World I-MISC
 of I-MISC
 Things I-MISC
 " O
 ( O
-1982 B-MISC
+1982 O
 ) O
 , O
 followed O
@@ -42339,7 +42339,7 @@ Knot O
 " O
 " O
 Soul O
-Alone I-MISC
+Alone O
 " O
 and O
 , O
@@ -42366,7 +42366,7 @@ one O
 game O
 . O
 
-Comelf O
+Comelf B-PER
 , O
 based O
 in O
@@ -42433,7 +42433,7 @@ Kurdish B-MISC
 rebel O
 leader O
 Massoud B-PER
-Barzani I-PER
+Barzani O
 against O
 rival O
 forces O
@@ -42454,7 +42454,7 @@ McCague I-PER
 4-55 O
 ) O
 , O
-Kent B-PER
+Kent B-ORG
 108-3 O
 . O
 
@@ -42512,7 +42512,7 @@ off O
 along O
 with O
 rivals O
-Leicestershire B-ORG
+Leicestershire I-PER
 , O
 who O
 beat O
@@ -42705,7 +42705,7 @@ Hyundai B-ORG
 .531 O
 7 O
 
-Roberto O
+Roberto B-PER
 Bisconti I-PER
 will O
 be O
@@ -42781,7 +42781,7 @@ the O
 home O
 defence O
 but O
-De B-PER
+De O
 Wilde O
 was O
 able O
@@ -42867,7 +42867,7 @@ OB B-ORG
 20 O
 1/2 O
 
-H. B-ORG
+H. B-PER
 Tillekeratne I-PER
 lbw O
 b O
@@ -42942,7 +42942,7 @@ people O
 already O
 in O
 the O
-Gulf B-MISC
+Gulf B-LOC
 consist O
 of O
 15,000 O
@@ -43020,7 +43020,7 @@ attacks O
 by O
 Iran B-LOC
 and O
-Talabani O
+Talabani B-LOC
 . O
 
 7. O
@@ -43041,8 +43041,8 @@ league O
 disciplinary O
 committee O
 , O
-Anatoly B-PER
-Gorokhovsky O
+Anatoly O
+Gorokhovsky I-PER
 , O
 said O
 on O
@@ -43095,11 +43095,11 @@ Austin I-PER
 4-37 O
 ) O
 , O
-Lancashire B-PER
-197-8 I-PER
+Lancashire B-ORG
+197-8 O
 ( O
 W. B-PER
-Hegg O
+Hegg I-PER
 54 O
 ) O
 
@@ -43117,8 +43117,8 @@ STATES O
 - O
 Prices O
 of O
-U.S. B-ORG
-Treasury I-ORG
+U.S. B-LOC
+Treasury I-LOC
 securities O
 were O
 trading O
@@ -43130,7 +43130,7 @@ after O
 a O
 surprisingly O
 strong O
-Chicago B-LOC
+Chicago B-ORG
 Purchasing O
 Managers O
 ' O
@@ -43142,7 +43142,7 @@ ahead O
 of O
 the O
 long O
-Labour B-MISC
+Labour I-MISC
 Day I-MISC
 weekend O
 . O
@@ -43187,7 +43187,7 @@ ministry O
 . O
 
 Al-Akhbar O
-newspapers I-PER
+newspapers O
 said O
 the O
 men O
@@ -43219,7 +43219,7 @@ minutes O
 from O
 time O
 when O
-De B-PER
+De B-ORG
 Wilde O
 fumbled O
 a O
@@ -43309,7 +43309,7 @@ MILWAUKEE B-LOC
 Wisconsin B-LOC
 1996-08-31 O
 
-Lukashenko B-ORG
+Lukashenko B-PER
 's O
 aides O
 shrugged O
@@ -43325,9 +43325,9 @@ film O
 , O
 starring O
 Liam B-PER
-Neeson O
+Neeson I-PER
 and O
-Julia O
+Julia B-PER
 Roberts I-PER
 , O
 recounts O
@@ -43338,9 +43338,9 @@ Michael B-PER
 Collins I-PER
 , O
 the O
-Irish B-ORG
-Republican I-ORG
-Army I-ORG
+Irish B-MISC
+Republican B-MISC
+Army O
 's O
 Director O
 of O
@@ -43408,8 +43408,8 @@ fans O
 Romanian B-MISC
 listed O
 state O
-engineer B-ORG
-Comelf I-ORG
+engineer O
+Comelf O
 said O
 it O
 almost O
@@ -43509,7 +43509,7 @@ Russia B-LOC
 
 Syria B-LOC
 and O
-Arabs B-LOC
+Arabs B-MISC
 have O
 been O
 dismayed O
@@ -43555,7 +43555,7 @@ Chonan B-ORG
 9 O
 
 May O
-27-29 I-ORG
+27-29 B-ORG
 v O
 Gloucestershire B-ORG
 or O
@@ -43567,8 +43567,8 @@ three O
 
 Proleter B-ORG
 ( I-ORG
-Z B-LOC
-) O
+Z I-ORG
+) I-ORG
 4 O
 0 O
 1 O
@@ -43629,10 +43629,10 @@ Automakers O
 petitioned O
 the O
 National B-ORG
-Highway I-LOC
-Traffic O
-Safety O
-Administration O
+Highway I-ORG
+Traffic I-ORG
+Safety I-ORG
+Administration I-ORG
 to O
 allow O
 them O
@@ -43686,16 +43686,16 @@ Baratelli B-PER
 who O
 played O
 for O
-Nice B-ORG
+Nice B-LOC
 and O
 Paris B-ORG
-St I-LOC
+St I-ORG
 Germain I-ORG
 , O
 takes O
 over O
 from O
-Albert B-LOC
+Albert B-PER
 Emon I-PER
 who O
 was O
@@ -43703,7 +43703,7 @@ fired O
 on O
 Thursday O
 after O
-Nice B-PER
+Nice B-ORG
 's O
 home O
 defeat O
@@ -43717,7 +43717,7 @@ league O
 
 SOCCER O
 - O
-MILAN B-ORG
+MILAN B-PER
 'S O
 LENTINI O
 MOVES O
@@ -43789,11 +43789,11 @@ night O
 , O
 mine O
 managers O
-Gold B-ORG
-Fields O
+Gold B-PER
+Fields I-PER
 of O
 South B-LOC
-Africa I-LOC
+Africa I-ORG
 Ltd I-ORG
 said O
 on O
@@ -43812,7 +43812,7 @@ Rodriguez B-PER
 homer O
 , O
 off O
-Chad O
+Chad B-PER
 Ogea I-PER
 ( O
 7-5 O
@@ -43822,7 +43822,7 @@ the O
 first O
 , O
 gave O
-Texas B-LOC
+Texas B-ORG
 a O
 2-0 O
 lead O
@@ -43909,8 +43909,8 @@ to O
 lose O
 . O
 
-Radio B-PER
-Red I-PER
+Radio B-ORG
+Red I-ORG
 quoted O
 local O
 police O
@@ -43920,7 +43920,7 @@ town O
 of O
 Tacambaro B-LOC
 , O
-Michoacan O
+Michoacan B-LOC
 , O
 80 O
 km O
@@ -43982,7 +43982,7 @@ the O
 week O
 . O
 
-COLOMBO B-LOC
+COLOMBO O
 1996-08-30 O
 
 He O
@@ -44187,7 +44187,7 @@ Gold O
 Fields O
 ' O
 Kloof O
-Gold B-ORG
+Gold O
 Mining I-ORG
 Co I-ORG
 this O
@@ -44329,7 +44329,7 @@ Revs O
 Chester-le-Street B-LOC
 : O
 Glamorgan B-PER
-259 O
+259 I-PER
 and O
 207 O
 ( O
@@ -44366,7 +44366,7 @@ Kenya B-LOC
 3:51.40 O
 
 Pancreatic O
-cancer O
+cancer I-PER
 is O
 among O
 the O
@@ -44378,7 +44378,7 @@ the O
 disease O
 , O
 although O
-Bernardin O
+Bernardin B-PER
 's O
 case O
 was O
@@ -44412,8 +44412,8 @@ incisive O
 pass O
 by O
 defender O
-Dirk O
-Medved I-PER
+Dirk B-PER
+Medved O
 from O
 the O
 edge O
@@ -44436,7 +44436,7 @@ that O
 the O
 International B-ORG
 Monetary I-ORG
-Fund I-ORG
+Fund O
 might O
 sell O
 some O
@@ -44589,7 +44589,7 @@ Sunday O
 festivities O
 . O
 
-Aluminium B-PER
+Aluminium B-ORG
 was O
 quiet O
 at O
@@ -44613,7 +44613,7 @@ The O
 loss O
 was O
 the O
-Mets B-MISC
+Mets O
 ' O
 eighth O
 straight O
@@ -44634,10 +44634,10 @@ under O
 new O
 manager O
 Bobby B-PER
-Valentine I-PER
+Valentine O
 . O
 
-GOLF O
+GOLF B-LOC
 - O
 HENKE O
 TAKES O
@@ -44697,7 +44697,7 @@ of O
 an O
 ecstatic O
 Ellis O
-Park I-LOC
+Park O
 crowd O
 on O
 Saturday O
@@ -44754,7 +44754,7 @@ on O
 Arbil O
 . O
 
-Previously B-PER
+Previously O
 , O
 he O
 was O
@@ -44929,9 +44929,9 @@ aggression O
 ... O
 
 Zeleznik B-ORG
-( O
-B B-LOC
-) O
+( I-ORG
+B I-ORG
+) I-ORG
 4 O
 1 O
 0 O
@@ -45041,7 +45041,7 @@ YORK I-LOC
 
 News-stand O
 chain O
-Ruch B-ORG
+Ruch O
 , O
 which O
 controls O
@@ -45238,7 +45238,7 @@ nine O
 games O
 . O
 
-Belarus B-ORG
+Belarus B-LOC
 beat O
 Estonia B-LOC
 1-0 O
@@ -45266,10 +45266,10 @@ detained O
 veteran O
 dissident O
 Wang O
-Donghai O
+Donghai I-PER
 , O
 the O
-New B-LOC
+New B-ORG
 York-based I-LOC
 pressure O
 group O
@@ -45362,16 +45362,16 @@ Briton B-MISC
 who O
 lost O
 his O
-World B-MISC
-Boxing I-MISC
-Council I-ORG
+World B-ORG
+Boxing I-ORG
+Council I-MISC
 ( O
 WBC O
 ) O
 title O
 to O
-Mike B-PER
-Tyson O
+Mike B-LOC
+Tyson I-LOC
 in O
 March O
 , O
@@ -45584,7 +45584,7 @@ Rochdale B-ORG
 2 O
 
 I O
-am O
+am I-PER
 told O
 that O
 it O
@@ -45795,7 +45795,7 @@ terrorism O
 and O
 noted O
 that O
-Tripoli B-LOC
+Tripoli O
 has O
 refused O
 to O
@@ -45814,7 +45814,7 @@ Am O
 flight O
 103 O
 over O
-Lockerbie B-LOC
+Lockerbie O
 , O
 Scotland B-LOC
 . O
@@ -45830,7 +45830,7 @@ home O
 Bonn B-LOC
 . O
 
-Mercantile O
+Mercantile B-ORG
 and O
 Commerce O
 did O
@@ -45844,7 +45844,7 @@ comment O
 
 Magna O
 , O
-Johnson B-MISC
+Johnson B-PER
 Controls O
 and O
 Lear O
@@ -45948,7 +45948,7 @@ M2 O
 391.32 O
 381.65 O
 
-MOSCOW B-LOC
+MOSCOW O
 1996-08-30 O
 
 VIENNA O
@@ -46005,14 +46005,14 @@ in O
 1988 O
 from O
 the O
-League B-LOC
+League O
 of O
 Women O
 Voters O
 . O
 
 Everything O
-else I-PER
+else O
 is O
 muddy O
 , O
@@ -46295,7 +46295,7 @@ overhead O
 Austria B-LOC
 's O
 best O
-chance I-PER
+chance O
 came O
 in O
 the O
@@ -46306,7 +46306,7 @@ Stephan O
 Marasek O
 of O
 SC O
-Freiburg I-PER
+Freiburg O
 taking O
 advantage O
 of O
@@ -46548,7 +46548,7 @@ Roshan B-PER
 Mahanama O
 , O
 Kumara B-PER
-Dharmasena O
+Dharmasena I-PER
 , O
 
 Gillingham B-ORG
@@ -46658,7 +46658,7 @@ stadium O
 in O
 Chisinau O
 as O
-Glenn O
+Glenn B-PER
 Hoddle I-PER
 's O
 England B-LOC
@@ -46801,8 +46801,8 @@ northern O
 China B-LOC
 , O
 the O
-China B-LOC
-Daily I-ORG
+China B-ORG
+Daily O
 said O
 on O
 Saturday O
@@ -47038,7 +47038,7 @@ in O
 Belgium B-LOC
 . O
 
-Wang B-PER
+Wang B-ORG
 's O
 family O
 could O
@@ -47065,12 +47065,12 @@ Results O
 of O
 English B-MISC
 , O
-Scottish B-MISC
+Scottish B-LOC
 and O
 
 ATHLETICS O
 - O
-MITCHELL B-PER
+MITCHELL O
 DEFEATS O
 BAILEY O
 IN O
@@ -47102,7 +47102,7 @@ buying O
 ahead O
 of O
 the O
-U.S. B-LOC
+U.S. B-MISC
 Labor B-MISC
 Day I-MISC
 weekend O
@@ -47132,7 +47132,7 @@ ROUND-UP O
 Britain B-LOC
 by O
 Richard B-PER
-Hannon I-PER
+Hannon O
 . O
 
 WESTERN B-MISC
@@ -47177,7 +47177,7 @@ saying O
 by O
 the O
 daily O
-Sueddeutsche O
+Sueddeutsche B-ORG
 Zeitung O
 on O
 Saturday O
@@ -47228,7 +47228,7 @@ Intertoto O
 final O
 match O
 against O
-Karlsruhe O
+Karlsruhe B-ORG
 of O
 Germany B-LOC
 . O
@@ -47267,7 +47267,7 @@ David B-PER
 Levy I-PER
 would O
 visit O
-Bonn B-LOC
+Bonn O
 for O
 talks O
 with O
@@ -47275,7 +47275,7 @@ his O
 German B-MISC
 counterpart O
 Klaus O
-Kinkel O
+Kinkel I-PER
 next O
 month O
 . O
@@ -47372,7 +47372,7 @@ negotiator O
 Nyerere O
 . O
 
-Belgrade B-LOC
+Belgrade B-PER
 's O
 main O
 airport O
@@ -47449,7 +47449,7 @@ Alania O
 and O
 two O
 behind O
-Dynamo B-ORG
+Dynamo O
 Moscow B-LOC
 , O
 the O
@@ -47568,10 +47568,10 @@ to O
 defend O
 themselves O
 in O
-trials O
+trials B-LOC
 . O
 
-Blair B-ORG
+Blair B-PER
 once O
 pledged O
 to O
@@ -47582,7 +47582,7 @@ Scottish B-MISC
 parliament O
 if O
 the O
-Labour B-ORG
+Labour O
 won O
 the O
 next O
@@ -47609,14 +47609,14 @@ be O
 without O
 key O
 midfielder O
-Mauro B-PER
+Mauro O
 Silva I-PER
 for O
 Saturday O
 's O
 game O
 with O
-Real O
+Real B-PER
 Madrid I-PER
 after O
 FIFA B-PER
@@ -47625,7 +47625,7 @@ soccer O
 's O
 world O
 governing O
-body I-PER
+body O
 , O
 suspended O
 the O
@@ -47654,7 +47654,7 @@ Charlton B-ORG
 
 Police O
 beat O
-Wang B-ORG
+Wang B-PER
 and O
 his O
 colleague O
@@ -47708,7 +47708,7 @@ impose O
 criminal O
 sentences O
 , O
-Western B-MISC
+Western B-ORG
 diplomats O
 have O
 said O
@@ -47845,8 +47845,8 @@ the O
 prospect O
 of O
 renewed O
-Moscow B-LOC
-domination I-PER
+Moscow B-PER
+domination O
 and O
 Russia B-LOC
 's O
@@ -48087,14 +48087,14 @@ Tom B-PER
 Bellamore I-PER
 of O
 the O
-California B-LOC
+California B-ORG
 avocado O
 group O
 . O
 
 SOCCER O
 - O
-THREE B-MISC
+THREE B-PER
 STANDARD O
 LIEGE O
 PLAYERS O
@@ -48261,7 +48261,7 @@ Recber I-PER
 4 O
 - O
 Hakan B-PER
-Unsal I-PER
+Unsal O
 ( O
 14 O
 - O
@@ -48286,9 +48286,9 @@ Temizkanoglu I-PER
 Alpay B-PER
 Ozalan I-PER
 , O
-7- B-PER
+7- O
 Abdullah I-PER
-Ercan O
+Ercan I-PER
 , O
 6 O
 - O
@@ -48320,11 +48320,11 @@ Sukur I-PER
 , O
 8 O
 - O
-Saffet B-PER
+Saffet O
 Sancakli I-PER
 ( O
 17- O
-Orhan I-PER
+Orhan B-PER
 Cikirikci O
 , O
 76th O
@@ -48339,10 +48339,10 @@ Wickman I-PER
 ( O
 6-1 O
 ) O
-pitched B-ORG
+pitched O
 2 O
 2/3 O
-hitless I-PER
+hitless O
 innings O
 for O
 the O
@@ -48479,7 +48479,7 @@ McCall I-PER
 Alistair B-PER
 McCoist I-PER
 ( O
-Gordon O
+Gordon B-PER
 Durie I-PER
 75th O
 ) O
@@ -48535,12 +48535,12 @@ Spain B-LOC
 formidable O
 duo O
 of O
-Arantxa B-PER
-Sanchez I-PER
+Arantxa O
+Sanchez B-PER
 Vicario I-PER
 and O
-Conchita B-LOC
-Martinez I-LOC
+Conchita O
+Martinez I-PER
 . O
 
 Shr O
@@ -48620,7 +48620,7 @@ but O
 will O
 not O
 accept O
-Armenia B-LOC
+Armenia B-PER
 's O
 demands O
 for O
@@ -48714,7 +48714,7 @@ The O
 German B-MISC
 government O
 urged O
-Israelis B-LOC
+Israelis B-MISC
 and O
 Palestinians B-MISC
 on O
@@ -48757,14 +48757,14 @@ LEAGUE O
 STANDINGS O
 . O
 
-BELGRADE B-LOC
+BELGRADE O
 1996-08-30 O
 
 SOCCER O
 - O
 SLOVAKIA B-LOC
 BEAT O
-FAROES B-ORG
+FAROES B-LOC
 IN O
 WORLD B-MISC
 CUP I-MISC
@@ -48782,11 +48782,11 @@ network O
 CNBC O
 Friday O
 , O
-Federal O
-Reserve O
-Governor O
-Lawrence O
-Lindsey I-PER
+Federal B-ORG
+Reserve I-ORG
+Governor I-ORG
+Lawrence B-PER
+Lindsey O
 said O
 there O
 still O
@@ -48810,7 +48810,7 @@ before O
 he O
 died O
 from O
-AIDS B-LOC
+AIDS O
 last O
 year O
 . O
@@ -48827,7 +48827,7 @@ MINNESOTA B-ORG
 
 Cincinnati B-ORG
 18 O
-COLORADO B-ORG
+COLORADO O
 7 O
 
 Liberte B-ORG
@@ -48904,7 +48904,7 @@ G O
 A O
 P O
 
-Tripoli O
+Tripoli B-PER
 decks O
 out O
 for O
@@ -49044,8 +49044,8 @@ at O
 Slovakia B-LOC
 beat O
 the O
-Faroe B-LOC
-Islands I-MISC
+Faroe B-MISC
+Islands O
 2-1 O
 ( O
 halftime O
@@ -49085,7 +49085,7 @@ had O
 provided O
 . O
 
-Red B-ORG
+Red B-PER
 Star I-PER
 ( O
 Yugoslavia B-LOC
@@ -49145,7 +49145,7 @@ U.S. B-MISC
 Open I-MISC
 . O
 
-Wang O
+Wang B-PER
 was O
 jailed O
 for O
@@ -49190,7 +49190,7 @@ aggregate O
 
 Deportivo O
 started O
-strongly B-ORG
+strongly O
 , O
 taking O
 the O
@@ -49217,7 +49217,7 @@ by O
 Brazilian-born O
 Spanish B-MISC
 international O
-midfielder B-PER
+midfielder O
 Donato B-PER
 . O
 
@@ -49233,8 +49233,8 @@ finalist O
 MaliVai B-PER
 Washington I-PER
 and O
-Marcelo B-PER
-Rios I-PER
+Marcelo O
+Rios O
 were O
 not O
 so O
@@ -49260,7 +49260,7 @@ competitive O
 . O
 " O
 
-Maggie O
+Maggie B-ORG
 McNeil O
 
 BRITAIN O
@@ -49285,7 +49285,7 @@ SOCCER O
 - O
 ARMENIA B-LOC
 AND O
-PORTUGAL B-PER
+PORTUGAL B-LOC
 DRAW O
 0-0 O
 IN O
@@ -49323,12 +49323,12 @@ but O
 the O
 State B-ORG
 Law I-ORG
-and I-ORG
-Order I-ORG
+and O
+Order O
 Restoration I-ORG
 Council I-ORG
 ( O
-SLORC B-MISC
+SLORC O
 ) O
 , O
 which O
@@ -49444,7 +49444,7 @@ third O
 Obilic B-ORG
 2 O
 Zeleznik B-ORG
-( O
+( I-ORG
 B I-ORG
 ) O
 0 O
@@ -49453,8 +49453,8 @@ ISSUER O
 : O
 Bay B-ORG
 Co I-ORG
-Building I-ORG
-Authority B-ORG
+Building O
+Authority O
 ST O
 : O
 MI O
@@ -49513,9 +49513,9 @@ N O
 / O
 A O
 
-Saracens B-ORG
+Saracens O
 25 O
-Leicester B-ORG
+Leicester O
 23 O
 
 He O
@@ -49554,7 +49554,7 @@ has O
 been O
 in O
 the O
-South B-MISC
+South B-LOC
 since O
 the O
 1950-53 O
@@ -49625,8 +49625,8 @@ TO O
 RETIRE O
 AFTER O
 1998 O
-WORLD B-MISC
-CUP I-MISC
+WORLD O
+CUP O
 . O
 
 LONDON B-LOC
@@ -49654,10 +49654,10 @@ Kiernan O
 , O
 played O
 by O
-Roberts O
+Roberts B-PER
 . O
 
-JERUSALEM B-PER
+JERUSALEM O
 1996-08-31 O
 
 Indian B-MISC
@@ -49671,7 +49671,7 @@ cut O
 rates O
 . O
 
-Davies O
+Davies B-PER
 also O
 noted O
 : O
@@ -49710,8 +49710,8 @@ BONN O
 
 CALL O
 : O
-11/1/05 O
-@ I-PER
+11/1/05 B-PER
+@ O
 101 O
 , O
 dtp O
@@ -49803,12 +49803,12 @@ Brown B-PER
 ( O
 14-10 O
 ) O
-tied B-PER
+tied O
 Todd B-PER
 Stottlemyre I-PER
 of O
 the O
-Cardinals B-ORG
+Cardinals O
 for O
 the O
 National B-MISC
@@ -50047,7 +50047,7 @@ growing O
 " O
 I O
 told O
-Monica B-ORG
+Monica B-PER
 we O
 need O
 her O
@@ -50083,7 +50083,7 @@ in O
 California B-LOC
 . O
 
-Ingram O
+Ingram B-PER
 was O
 quoted O
 as O
@@ -50152,8 +50152,8 @@ Haarhuis I-PER
 
 1860 O
 - O
-Giuseppe B-PER
-Garibaldi O
+Giuseppe O
+Garibaldi I-PER
 leading O
 his O
 " O
@@ -50173,7 +50173,7 @@ the O
 Austrians O
 . O
 
-ROMANIA O
+ROMANIA B-ORG
 COMELF O
 H1 O
 PROFIT O
@@ -50218,16 +50218,16 @@ the O
 record O
 set O
 by O
-Loren O
+Loren B-PER
 Roberts I-PER
 in O
 1994 O
 at O
 the O
 Brown B-LOC
-Deer I-LOC
+Deer I-ORG
 Park I-LOC
-Golf I-MISC
+Golf O
 Course O
 and O
 also O
@@ -50384,7 +50384,7 @@ Stephan B-PER
 Marasek I-PER
 , O
 Dieter B-PER
-Ramusch I-PER
+Ramusch O
 ( O
 Andreas B-PER
 Ogris I-PER
@@ -50398,8 +50398,8 @@ Anton B-PER
 Polster I-PER
 ( O
 ( O
-Herfried O
-Sabitzer O
+Herfried B-PER
+Sabitzer I-PER
 68th O
 ) O
 , O
@@ -50561,14 +50561,14 @@ Nigeria B-LOC
 Oeji B-PER
 Aliu I-PER
 
-Currie B-ORG
+Currie O
 45 O
-Heriot I-ORG
+Heriot O
 's O
 F.P. O
 5 O
 
-Mauritania B-LOC
+Mauritania B-PER
 's O
 soccer O
 federation O
@@ -50794,7 +50794,7 @@ FLORIDA B-ORG
 19 O
 1/2 O
 
-May B-ORG
+May O
 20 O
 v O
 Durham B-ORG
@@ -50809,29 +50809,29 @@ interest O
 in O
 buying O
 in O
-Missouri O
+Missouri B-LOC
 are O
-Minneapolis-based B-ORG
-First I-ORG
+Minneapolis-based O
+First B-ORG
 Bank I-ORG
 System I-ORG
 Inc. I-ORG
 and O
-Norwest B-ORG
+Norwest I-ORG
 Corp. I-ORG
 , O
 Ohio-based O
 KeyCorp O
 and O
-Banc B-ORG
+Banc O
 One O
-Corp. O
+Corp. I-ORG
 , O
 and O
 First O
-Chicago B-ORG
-NBD O
-Corp. O
+Chicago B-LOC
+NBD I-ORG
+Corp. I-ORG
 in O
 Illinois B-LOC
 . O
@@ -51052,7 +51052,7 @@ the O
 Test B-ORG
 and O
 County B-ORG
-Cricket I-LOC
+Cricket I-ORG
 Board I-ORG
 
 Chonbuk B-ORG
@@ -51211,7 +51211,7 @@ the O
 Sereipheap B-ORG
 Thmei O
 ( O
-New B-LOC
+New B-ORG
 Liberty I-ORG
 ) O
 newspaper O
@@ -51397,7 +51397,7 @@ of O
 the O
 mainly-Moslem O
 North B-LOC
-Caucasus I-LOC
+Caucasus O
 region O
 . O
 
@@ -51455,12 +51455,12 @@ John B-PER
 Geraghty I-PER
 at O
 the O
-consulting O
+consulting B-ORG
 firm O
 North B-ORG
 American I-MISC
-Equity I-ORG
-Services I-MISC
+Equity O
+Services I-PER
 . O
 
 May O
@@ -51469,7 +51469,7 @@ May O
 June O
 2 O
 v O
-Derbyshire O
+Derbyshire B-ORG
 ( O
 three O
 days O
@@ -51644,7 +51644,7 @@ Jacquet I-PER
 , O
 their O
 Euro B-MISC
-96 I-MISC
+96 O
 semifinal O
 elimination O
 having O
@@ -51661,11 +51661,11 @@ by O
 the O
 sending-off O
 of O
-Chelsea B-ORG
+Chelsea B-PER
 central O
 defender O
-Franck O
-Leboeuf I-PER
+Franck B-PER
+Leboeuf O
 . O
 
 But O
@@ -51759,7 +51759,7 @@ of O
 relations O
 between O
 the O
-Russian B-MISC
+Russian B-LOC
 Federation I-LOC
 and O
 the O
@@ -51916,7 +51916,7 @@ States I-LOC
 
 SOCCER O
 - O
-INCE B-ORG
+INCE B-LOC
 EXPOSED O
 BY O
 GASCOIGNE O
@@ -51925,7 +51925,7 @@ LATEST O
 PRANK O
 . O
 
-Eyles B-PER
+Eyles O
 played O
 his O
 best O
@@ -51935,7 +51935,7 @@ the O
 tournament O
 to O
 beat O
-fourth-seeded B-MISC
+fourth-seeded O
 Peter B-PER
 Nicol I-PER
 of O
@@ -51968,7 +51968,7 @@ are O
 considered O
 . O
 
-Charles B-PER
+Charles B-ORG
 ceded O
 Alsace O
 and O
@@ -52007,8 +52007,8 @@ were O
 entered O
 at O
 the O
-preliminary B-LOC
-hearing I-LOC
+preliminary O
+hearing O
 . O
 
 The O
@@ -52090,10 +52090,10 @@ after O
 fleeing O
 there O
 in O
-1981 B-LOC
+1981 O
 , O
 told O
-Der O
+Der B-ORG
 Spiegel O
 he O
 did O
@@ -52109,7 +52109,7 @@ safe O
 conduct O
 . O
 
-Cambodian O
+Cambodian B-ORG
 opposition O
 newspaper O
 editor O
@@ -52132,7 +52132,7 @@ condemns O
 Iraq B-LOC
 involvement O
 in O
-Arbil O
+Arbil B-LOC
 attack O
 . O
 
@@ -52176,7 +52176,7 @@ SOCCER O
 RESULTS O
 OF O
 SOUTH B-MISC
-KOREAN I-MISC
+KOREAN O
 PRO-SOCCER O
 GAMES O
 . O
@@ -52556,9 +52556,9 @@ National B-ORG
 Association I-ORG
 of I-ORG
 Purchasing I-ORG
-Management I-MISC
+Management I-ORG
 ( O
-NAPM B-MISC
+NAPM O
 ) O
 index O
 for O
@@ -52602,7 +52602,7 @@ SOCCER O
 U.S. B-LOC
 BEAT O
 EL B-ORG
-SALVADOR I-ORG
+SALVADOR O
 3-1 O
 . O
 
@@ -52804,7 +52804,7 @@ to O
 attend O
 a O
 Latin B-MISC
-American B-MISC
+American I-MISC
 summit O
 meeting O
 in O
@@ -52917,9 +52917,9 @@ recaptured O
 D. B-PER
 Lehmann I-PER
 st O
-Kaluwitharana B-ORG
+Kaluwitharana B-PER
 b O
-Chandana B-ORG
+Chandana B-PER
 2 O
 
 A O
@@ -53186,12 +53186,12 @@ Ludwig B-PER
 
 SOCCER O
 - O
-MAURITANIA B-ORG
+MAURITANIA B-MISC
 DISSOLVES O
-NATIONAL B-MISC
+NATIONAL O
 TEAM O
-AFTER B-MISC
-CUP I-MISC
+AFTER O
+CUP O
 EXIT O
 . O
 
@@ -53216,13 +53216,13 @@ order O
 included O
 AXE O
 switching O
-equipment I-PER
+equipment O
 , O
 ISDN O
 equipment O
 , O
-Intelligent O
-Network O
+Intelligent B-PER
+Network I-PER
 ( O
 IN O
 ) O
@@ -53231,7 +53231,7 @@ products O
 broad-band O
 multi-media O
 communication O
-network O
+network B-PER
 products O
 , O
 services O
@@ -53396,8 +53396,8 @@ the O
 Gulf B-LOC
 ; O
 the O
-aircraft B-LOC
-carrier I-LOC
+aircraft O
+carrier O
 Enterprise O
 was O
 in O
@@ -53427,18 +53427,18 @@ the O
 United B-LOC
 States I-LOC
 if O
-ordered B-LOC
+ordered O
 . O
 
 BASKETBALLSOCCER O
 - O
-TROFEJ B-MISC
+TROFEJ O
 BEOGRAD O
 TOURNAMENT O
 RESULTS O
 . O
 
-World B-ORG
+World O
 4,000 O
 metres O
 team O
@@ -53508,12 +53508,12 @@ Fax O
 . O
 
 Recalled O
-fly-half B-PER
-Henry I-PER
-Honiball I-PER
+fly-half O
+Henry B-PER
+Honiball O
 kicked O
 the O
-Springboks B-ORG
+Springboks O
 into O
 a O
 6-0 O
@@ -53554,9 +53554,9 @@ Financial I-ORG
 Futures I-ORG
 and I-ORG
 Options I-ORG
-Exchange I-MISC
+Exchange I-ORG
 ( O
-LIFFE B-MISC
+LIFFE B-ORG
 ) O
 was O
 trading O
@@ -53653,7 +53653,7 @@ incident O
 in O
 which O
 two O
-Lebanese B-LOC
+Lebanese B-MISC
 residents O
 were O
 injured O
@@ -53666,7 +53666,7 @@ Sikhin O
 village O
 ... O
 
-New B-LOC
+New B-ORG
 orders O
 to O
 factories O
@@ -53723,8 +53723,8 @@ bid O
 . O
 
 -- O
-Anthony B-PER
-Barker O
+Anthony B-ORG
+Barker I-PER
 +48 O
 22 O
 653 O
@@ -53754,7 +53754,7 @@ Mahala O
 " O
 NATO B-ORG
 spokesman O
-Lieutenant-Colonel O
+Lieutenant-Colonel B-PER
 Max B-PER
 Marriner I-PER
 said O
@@ -53774,9 +53774,9 @@ newSpaper O
 Chesterfield O
 : O
 Worcestershire B-PER
-238 O
+238 I-PER
 and O
-133-5 O
+133-5 B-PER
 , O
 Derbyshire O
 471 O
@@ -53785,7 +53785,7 @@ J. B-PER
 Adams I-PER
 123 O
 , O
-T.O'Gorman O
+T.O'Gorman B-PER
 109 O
 not O
 out O
@@ -53795,7 +53795,7 @@ Barnett I-PER
 87 O
 ; O
 T. B-PER
-Moody O
+Moody I-PER
 6-82 O
 ) O
 
@@ -53859,7 +53859,7 @@ non-inflationary O
 The O
 group O
 demanded O
-Wang B-PER
+Wang O
 's O
 release O
 and O
@@ -53923,7 +53923,7 @@ hours O
 on O
 Saturday O
 in O
-al-Daih O
+al-Daih B-LOC
 village O
 , O
 five O
@@ -53982,13 +53982,13 @@ attacks O
 . O
 
 June O
-25-27 I-ORG
+25-27 O
 v O
-British B-MISC
-Universities I-ORG
+British B-ORG
+Universities O
 ( O
 at O
-Oxford B-LOC
+Oxford O
 , O
 three O
 days O
@@ -54023,7 +54023,7 @@ which O
 convinced O
 traders O
 the O
-BOJ B-LOC
+BOJ B-ORG
 would O
 not O
 raise O
@@ -54050,7 +54050,7 @@ Indonesian B-ORG
 Democratic I-ORG
 Party I-ORG
 ( O
-PDI B-MISC
+PDI B-ORG
 ) O
 leader O
 Megawati B-PER
@@ -54093,7 +54093,7 @@ the O
 loot O
 valued O
 at O
-300,000 O
+300,000 B-LOC
 naira O
 ( O
 $ O
@@ -54137,7 +54137,7 @@ CGT O
 unions O
 marched O
 outside O
-Air B-ORG
+Air O
 France B-LOC
 headquarters O
 at O
@@ -54229,7 +54229,7 @@ the O
 ball O
 fall O
 to O
-Markus B-PER
+Markus O
 Schopp O
 but O
 he O
@@ -54372,7 +54372,7 @@ Romesh B-PER
 Kaluwitharana I-PER
 , O
 Asanka B-PER
-Gurusinha O
+Gurusinha I-PER
 , O
 Aravinda B-PER
 de I-PER
@@ -54384,7 +54384,7 @@ firms O
 including O
 Mobil O
 , O
-Shell B-ORG
+Shell O
 and O
 Caltex O
 , O
@@ -54512,9 +54512,9 @@ RIGA O
 
 SOCCER O
 - O
-SUMMARY O
+SUMMARY B-LOC
 IN O
-THE B-MISC
+THE O
 SPANISH B-MISC
 FIRST O
 DIVISION O

@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
     print("开始预测")
 
-    _, valid_sentence, _ = DataProcess("../NER/English/validation.txt")
+    _, valid_sentence, _ = DataProcess("../NER/English/test.txt")
 
     predict_tag = []
     for s in valid_sentence:
@@ -64,12 +64,12 @@ if __name__ == "__main__":
         assert len(p) == len(s), f"预测的状态序列长度与观测矩阵不同,len(p)={len(p)},len(s)={len(s)}"
         predict_tag.append([s, p])
 
-    data2txt(predict_tag, "./my_English_validation_result.txt")
+    data2txt(predict_tag, "./my_English_test_result.txt")
     print("预测结束")
 
     print("英文结果: ")
     check(
         language="English",
-        gold_path="../NER/English/validation.txt",
-        my_path="./my_English_validation_result.txt",
+        gold_path="../NER/English/test.txt",
+        my_path="./my_English_test_result.txt",
     )

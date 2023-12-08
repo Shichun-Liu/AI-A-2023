@@ -79,7 +79,7 @@ def data2txt(predict, path):
 
 if __name__ == "__main__":
     train, _, _ = DataProcess("../NER/English/train.txt")
-    valid, valid_sentence, valid_tag = DataProcess("../NER/English/validation.txt")
+    valid, valid_sentence, valid_tag = DataProcess("../NER/English/test.txt")
 
     X_train = [sent2features(s[0]) for s in train]
     y_train = [sent2labels(s[1]) for s in train]
@@ -108,4 +108,4 @@ if __name__ == "__main__":
         predict_tag.append([valid_sentence[i], y_pred[i]])
     print("预测结束")
 
-    data2txt(predict_tag, "./my_English_validation_result.txt")
+    data2txt(predict_tag, "./my_English_test_result.txt")

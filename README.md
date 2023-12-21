@@ -2,8 +2,9 @@
 PJs of Artificial Intelligence A 2023 course
 
 ## final:
-Rough Set: https://zhuanlan.zhihu.com/p/433499885
-看1-4
+Rough Set: 
+- 看1-4：https://zhuanlan.zhihu.com/p/433499885
+- PPT 30页之后的例子
 
 决策树：看李航的书，把例子做对就行；掌握Gain的计算；
 
@@ -22,5 +23,5 @@ CLIPS：没时间，先别看了
 - https://zhuanlan.zhihu.com/p/404174217
 
 神经网络
-- 第8题可参考：https://zhuanlan.zhihu.com/p/75879624
-- CNN：https://zh-v1.d2l.ai/chapter_convolutional-neural-networks/index.html
+- 第8题：https://zhuanlan.zhihu.com/p/75879624
+- 第9题CNN：https://zh-v1.d2l.ai/chapter_convolutional-neural-networks/index.html

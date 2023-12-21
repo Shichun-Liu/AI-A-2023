@@ -6,6 +6,10 @@ Rough Set:
 - 看1-4：https://zhuanlan.zhihu.com/p/433499885
 - PPT 30页之后的例子
 
+置信度理论
+- 快速阅读：https://zhuanlan.zhihu.com/p/580745886
+- 课本：https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/Chapter-01.pdf
+
 决策树：看李航的书，把例子做对就行；掌握Gain的计算；
 
 CLIPS：没时间，先别看了
